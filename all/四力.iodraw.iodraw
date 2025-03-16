@@ -7,9 +7,6 @@
         <mxCell id="nz-6hShBp4Oannc3QM91-1" value="迁出地" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nz-6hShBp4Oannc3QM91-2" value="迁入地" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="490" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="nz-6hShBp4Oannc3QM91-3" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;startArrow=classic;startFill=1;endFill=0;entryX=0.191;entryY=-0.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="nz-6hShBp4Oannc3QM91-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="420" as="sourcePoint" />
@@ -25,10 +22,10 @@
         <mxCell id="nz-6hShBp4Oannc3QM91-5" value="迁出地" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nz-6hShBp4Oannc3QM91-6" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;startArrow=classic;startFill=1;endFill=0;entryX=0.191;entryY=-0.036;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.191;exitY=-0.036;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="nz-6hShBp4Oannc3QM91-5">
+        <mxCell id="nz-6hShBp4Oannc3QM91-6" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;startArrow=classic;startFill=1;endFill=0;entryX=0.191;entryY=-0.036;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.191;exitY=-0.036;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="990" y="180" as="sourcePoint" />
-            <mxPoint x="690" y="320" as="targetPoint" />
+            <mxPoint x="440.00000000000006" y="517.8399999999999" as="sourcePoint" />
+            <mxPoint x="597.08" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nz-6hShBp4Oannc3QM91-7" value="" style="curved=1;endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" target="nz-6hShBp4Oannc3QM91-5">
