@@ -4,12 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nz-6hShBp4Oannc3QM91-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nz-6hShBp4Oannc3QM91-1" target="nz-6hShBp4Oannc3QM91-16">
+        <mxCell id="nz-6hShBp4Oannc3QM91-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=10;" edge="1" parent="1" source="nz-6hShBp4Oannc3QM91-1" target="nz-6hShBp4Oannc3QM91-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="340" y="530" />
-              <mxPoint x="340" y="550" />
-              <mxPoint x="358" y="550" />
+              <mxPoint x="350" y="530" />
+              <mxPoint x="350" y="530" />
             </Array>
           </mxGeometry>
         </mxCell>
