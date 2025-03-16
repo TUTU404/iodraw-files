@@ -637,9 +637,9 @@
           <mxGeometry x="340" y="140" width="61" height="22" as="geometry" />
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-287" value="信息需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="279" y="182" width="61" height="22" as="geometry" />
+          <mxGeometry x="239" y="128" width="61" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="rnVWVyAdBJaIFlmRBQSP-288" value="信息需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="rnVWVyAdBJaIFlmRBQSP-288" value="社交需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="140" y="172" width="61" height="22" as="geometry" />
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-289" value="信息需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -649,7 +649,7 @@
           <mxGeometry x="381" y="50" width="61" height="22" as="geometry" />
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-291" value="信息需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="110" y="200" width="61" height="22" as="geometry" />
+          <mxGeometry x="100" y="200" width="61" height="22" as="geometry" />
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-292" value="信息需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="424.5" y="98" width="61" height="22" as="geometry" />
