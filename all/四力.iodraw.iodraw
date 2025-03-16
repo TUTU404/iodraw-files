@@ -73,8 +73,11 @@
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-190" value="选择能力" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="91" y="317" width="61" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="rnVWVyAdBJaIFlmRBQSP-343" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rnVWVyAdBJaIFlmRBQSP-191" target="rnVWVyAdBJaIFlmRBQSP-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rnVWVyAdBJaIFlmRBQSP-343" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="146.3681398494722" y="375.63133003855" as="sourcePoint" />
+            <mxPoint x="190" y="363.8942731277534" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-191" value="信息需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="91" y="379" width="61" height="22" as="geometry" />
@@ -232,8 +235,11 @@
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-289" value="休闲娱乐需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="179" y="160" width="61" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="rnVWVyAdBJaIFlmRBQSP-344" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rnVWVyAdBJaIFlmRBQSP-290" target="rnVWVyAdBJaIFlmRBQSP-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rnVWVyAdBJaIFlmRBQSP-344" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="133.08831025506527" y="415.8248983126257" as="sourcePoint" />
+            <mxPoint x="190" y="366" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-290" value="信息需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="91" y="409" width="61" height="22" as="geometry" />
@@ -246,8 +252,8 @@
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-339" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="133.08831025506527" y="304.1751016873743" as="sourcePoint" />
-            <mxPoint x="190" y="354" as="targetPoint" />
+            <mxPoint x="133.08831025506527" y="301.1751016873743" as="sourcePoint" />
+            <mxPoint x="190" y="351" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-292" value="获取能力" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
