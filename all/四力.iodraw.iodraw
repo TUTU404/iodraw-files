@@ -349,7 +349,7 @@
           <mxGeometry x="371" y="40" width="61" height="22" as="geometry" />
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-190" value="信息需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="30" y="240" width="61" height="22" as="geometry" />
+          <mxGeometry x="90" y="300" width="61" height="22" as="geometry" />
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-191" value="信息需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="414.5" y="88" width="61" height="22" as="geometry" />
@@ -664,7 +664,7 @@
           <mxGeometry x="100" y="200" width="61" height="22" as="geometry" />
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-292" value="信息需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="424.5" y="98" width="61" height="22" as="geometry" />
+          <mxGeometry x="91" y="260" width="61" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
