@@ -354,6 +354,9 @@
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-190" value="信息需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="90" y="333" width="61" height="22" as="geometry" />
         </mxCell>
+        <mxCell id="rnVWVyAdBJaIFlmRBQSP-304" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rnVWVyAdBJaIFlmRBQSP-191" target="rnVWVyAdBJaIFlmRBQSP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-191" value="信息需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="90" y="373" width="61" height="22" as="geometry" />
         </mxCell>
@@ -656,6 +659,9 @@
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-289" value="休闲娱乐需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="179" y="160" width="61" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="rnVWVyAdBJaIFlmRBQSP-305" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rnVWVyAdBJaIFlmRBQSP-290" target="rnVWVyAdBJaIFlmRBQSP-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-290" value="信息需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="91" y="413" width="61" height="22" as="geometry" />
