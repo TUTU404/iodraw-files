@@ -37,6 +37,9 @@
         <mxCell id="nz-6hShBp4Oannc3QM91-15" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="245" y="740" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="nz-6hShBp4Oannc3QM91-16" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.archimate3.actor;" vertex="1" parent="1">
+          <mxGeometry x="390" y="510" width="26.5" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
