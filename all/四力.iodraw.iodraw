@@ -651,8 +651,11 @@
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-284" value="信息需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="100" y="490" width="61" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="rnVWVyAdBJaIFlmRBQSP-318" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rnVWVyAdBJaIFlmRBQSP-285" target="rnVWVyAdBJaIFlmRBQSP-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rnVWVyAdBJaIFlmRBQSP-318" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="162.89186854155344" y="520.9488177385174" as="sourcePoint" />
+            <mxPoint x="226" y="470" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-285" value="信息需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="129" y="520" width="61" height="22" as="geometry" />
