@@ -41,7 +41,7 @@
             <mxPoint x="500.08000000000004" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nz-6hShBp4Oannc3QM91-27" value="&lt;font face=&quot;宋体&quot;&gt;推力&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nz-6hShBp4Oannc3QM91-6">
+        <mxCell id="nz-6hShBp4Oannc3QM91-27" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;推力&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="nz-6hShBp4Oannc3QM91-6">
           <mxGeometry x="-0.0672" y="9" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
