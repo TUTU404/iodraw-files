@@ -69,12 +69,12 @@
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-329" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="615.6810123036119" y="341.85585287959316" as="sourcePoint" />
-            <mxPoint x="560" y="355" as="targetPoint" />
+            <mxPoint x="595.6810123036119" y="368.35585287959316" as="sourcePoint" />
+            <mxPoint x="540" y="381.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-189" value="持续收集" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="611" y="330" width="61" height="22" as="geometry" />
+          <mxGeometry x="591" y="356.5" width="61" height="22" as="geometry" />
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-341" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rnVWVyAdBJaIFlmRBQSP-190">
           <mxGeometry relative="1" as="geometry">
@@ -111,20 +111,20 @@
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-331" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="364" as="targetPoint" />
-            <mxPoint x="628.3189740309288" y="415.08025880678156" as="sourcePoint" />
+            <mxPoint x="540" y="390.5" as="targetPoint" />
+            <mxPoint x="608.3189740309288" y="441.58025880678156" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-270" value="增加工具使用次数" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="611" y="410" width="61" height="22" as="geometry" />
+          <mxGeometry x="591" y="436.5" width="61" height="22" as="geometry" />
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-330" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rnVWVyAdBJaIFlmRBQSP-273">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="360" as="targetPoint" />
+            <mxPoint x="540" y="386.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-273" value="增加投入" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="611" y="370" width="61" height="22" as="geometry" />
+          <mxGeometry x="591" y="396.5" width="61" height="22" as="geometry" />
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-334" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -135,13 +135,8 @@
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-274" value="价值表现上的影响" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="720" y="89" width="61" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="rnVWVyAdBJaIFlmRBQSP-328" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rnVWVyAdBJaIFlmRBQSP-275">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-275" value="持续关注" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="611" y="297" width="61" height="22" as="geometry" />
+          <mxGeometry x="591" y="323.5" width="61" height="22" as="geometry" />
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-276" value="人际网络" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="389" y="519" width="61" height="22" as="geometry" />
