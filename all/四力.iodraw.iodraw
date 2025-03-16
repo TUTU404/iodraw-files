@@ -94,7 +94,7 @@
             <mxPoint x="372" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rnVWVyAdBJaIFlmRBQSP-269" value="信息需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="rnVWVyAdBJaIFlmRBQSP-269" value="规范性影响" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="359" y="563" width="61" height="22" as="geometry" />
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-331" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
@@ -179,7 +179,7 @@
             <mxPoint x="235.3561643835617" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rnVWVyAdBJaIFlmRBQSP-281" value="信息需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="rnVWVyAdBJaIFlmRBQSP-281" value="危机意识" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="229" y="585" width="61" height="22" as="geometry" />
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-322" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.33;entryY=-0.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rnVWVyAdBJaIFlmRBQSP-282" target="rnVWVyAdBJaIFlmRBQSP-14">
