@@ -37,12 +37,6 @@
         <mxCell id="nz-6hShBp4Oannc3QM91-16" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.archimate3.actor;" vertex="1" parent="1">
           <mxGeometry x="350" y="490" width="16.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nz-6hShBp4Oannc3QM91-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="310" as="sourcePoint" />
-            <mxPoint x="330" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
