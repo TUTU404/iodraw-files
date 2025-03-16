@@ -5,7 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nz-6hShBp4Oannc3QM91-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nz-6hShBp4Oannc3QM91-1" target="nz-6hShBp4Oannc3QM91-16">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="530" />
+              <mxPoint x="340" y="550" />
+              <mxPoint x="358" y="550" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="nz-6hShBp4Oannc3QM91-1" value="&lt;font style=&quot;font-size: 25px;&quot; face=&quot;宋体&quot;&gt;迁出地&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="500" width="120" height="60" as="geometry" />
