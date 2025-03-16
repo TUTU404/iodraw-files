@@ -185,10 +185,10 @@
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-282" value="喜欢" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="321" y="220" width="61" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="rnVWVyAdBJaIFlmRBQSP-354" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="rnVWVyAdBJaIFlmRBQSP-354" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="98.58351247163569" y="512.6866884525984" as="sourcePoint" />
-            <mxPoint x="135.5" y="507.6756756756756" as="targetPoint" />
+            <mxPoint x="91.05314574989347" y="517.2169195903159" as="sourcePoint" />
+            <mxPoint x="135.5" y="508.6756756756756" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-283" value="价值意识" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
