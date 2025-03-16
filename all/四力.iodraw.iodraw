@@ -24,17 +24,11 @@
             <mxPoint x="330" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XBriH4Uv3yri48I33C_r-11" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;宋体&quot;&gt;接受动机&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="324" y="100" width="90" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="XBriH4Uv3yri48I33C_r-12" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;宋体&quot;&gt;接受意识&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="190" y="430" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XBriH4Uv3yri48I33C_r-13" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;宋体&quot;&gt;接受能力&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="190" y="340" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="XBriH4Uv3yri48I33C_r-14" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;宋体&quot;&gt;接受动机&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="334" y="110" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XBriH4Uv3yri48I33C_r-15" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;宋体&quot;&gt;接受意向&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="470" y="340" width="90" height="40" as="geometry" />
@@ -60,8 +54,11 @@
         <mxCell id="XBriH4Uv3yri48I33C_r-18" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;宋体&quot;&gt;接受态度&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="330" y="340" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XBriH4Uv3yri48I33C_r-25" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="350" width="60" height="30" as="geometry" />
+        <mxCell id="XBriH4Uv3yri48I33C_r-25" value="H" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XBriH4Uv3yri48I33C_r-26" value="H" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="240" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
