@@ -132,13 +132,13 @@
           <mxGeometry x="611" y="297" width="61" height="22" as="geometry" />
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-276" value="人际网络" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="740" y="648" width="61" height="22" as="geometry" />
+          <mxGeometry x="389" y="519" width="61" height="22" as="geometry" />
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-277" value="传统媒介" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="640" y="580" width="61" height="22" as="geometry" />
+          <mxGeometry x="235.5" y="519" width="61" height="22" as="geometry" />
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-278" value="新媒介" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="701" y="610" width="61" height="22" as="geometry" />
+          <mxGeometry x="306.5" y="519" width="61" height="22" as="geometry" />
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-279" value="分享" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="377.5" y="143" width="61" height="22" as="geometry" />
