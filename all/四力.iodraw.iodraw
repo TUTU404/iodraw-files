@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nz-6hShBp4Oannc3QM91-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nz-6hShBp4Oannc3QM91-1" value="迁出地" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nz-6hShBp4Oannc3QM91-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
