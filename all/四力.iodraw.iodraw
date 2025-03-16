@@ -227,7 +227,7 @@
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-290" value="工具能力" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="36.5" y="410" width="61" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="rnVWVyAdBJaIFlmRBQSP-350" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+        <mxCell id="rnVWVyAdBJaIFlmRBQSP-350" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="rnVWVyAdBJaIFlmRBQSP-291">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="82.068118513929" y="241.9773232104112" as="sourcePoint" />
             <mxPoint x="135.5" y="199" as="targetPoint" />
@@ -236,7 +236,7 @@
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-291" value="信息需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="39" y="235" width="61" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="rnVWVyAdBJaIFlmRBQSP-339" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+        <mxCell id="rnVWVyAdBJaIFlmRBQSP-339" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rnVWVyAdBJaIFlmRBQSP-292">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="78.58831025506527" y="301.1751016873743" as="sourcePoint" />
             <mxPoint x="135.5" y="351" as="targetPoint" />
