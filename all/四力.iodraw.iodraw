@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="fnjNoNlb4Mp-pYAkGLXa">
-    <mxGraphModel dx="1561" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="734" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -640,7 +640,7 @@
           <mxGeometry x="340" y="140" width="61" height="22" as="geometry" />
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-284" value="信息需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="350" y="150" width="61" height="22" as="geometry" />
+          <mxGeometry x="100" y="490" width="61" height="22" as="geometry" />
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-285" value="信息需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="330" y="130" width="61" height="22" as="geometry" />
@@ -691,42 +691,6 @@
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-292" value="信息需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="91" y="293" width="61" height="22" as="geometry" />
-        </mxCell>
-        <mxCell id="rnVWVyAdBJaIFlmRBQSP-315" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-40" y="330" width="131" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="rnVWVyAdBJaIFlmRBQSP-307" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rnVWVyAdBJaIFlmRBQSP-315">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="108.17667937387776" y="17.922486324972024" as="sourcePoint" />
-            <mxPoint x="92.355" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rnVWVyAdBJaIFlmRBQSP-308" value="内容体验需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="rnVWVyAdBJaIFlmRBQSP-315">
-          <mxGeometry x="91.045" width="39.955" height="30.40650406504065" as="geometry" />
-        </mxCell>
-        <mxCell id="rnVWVyAdBJaIFlmRBQSP-309" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rnVWVyAdBJaIFlmRBQSP-315" source="rnVWVyAdBJaIFlmRBQSP-310">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="85.15" y="168.6178861788618" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rnVWVyAdBJaIFlmRBQSP-310" value="信息需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="rnVWVyAdBJaIFlmRBQSP-315">
-          <mxGeometry x="18.995" y="71.869918699187" width="39.955" height="30.40650406504065" as="geometry" />
-        </mxCell>
-        <mxCell id="rnVWVyAdBJaIFlmRBQSP-311" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="rnVWVyAdBJaIFlmRBQSP-315" source="rnVWVyAdBJaIFlmRBQSP-312">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="88.425" y="168.6178861788618" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rnVWVyAdBJaIFlmRBQSP-312" value="休闲娱乐需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="rnVWVyAdBJaIFlmRBQSP-315">
-          <mxGeometry x="51.745000000000005" y="30.40650406504065" width="39.955" height="30.40650406504065" as="geometry" />
-        </mxCell>
-        <mxCell id="rnVWVyAdBJaIFlmRBQSP-313" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.377;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="rnVWVyAdBJaIFlmRBQSP-315" source="rnVWVyAdBJaIFlmRBQSP-314">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="81.22" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rnVWVyAdBJaIFlmRBQSP-314" value="信息需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="rnVWVyAdBJaIFlmRBQSP-315">
-          <mxGeometry y="127.15447154471545" width="39.955" height="30.40650406504065" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
