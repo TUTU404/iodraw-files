@@ -42,8 +42,11 @@
         <mxCell id="XBriH4Uv3yri48I33C_r-16" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;宋体&quot;&gt;参照群体&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="260" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XBriH4Uv3yri48I33C_r-17" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;宋体&quot;&gt;接受动机&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="324" y="430" width="90" height="40" as="geometry" />
+        <mxCell id="XBriH4Uv3yri48I33C_r-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XBriH4Uv3yri48I33C_r-17" target="XBriH4Uv3yri48I33C_r-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XBriH4Uv3yri48I33C_r-17" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;信息质量&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="430" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XBriH4Uv3yri48I33C_r-18" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;宋体&quot;&gt;接受态度&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="340" width="90" height="40" as="geometry" />
