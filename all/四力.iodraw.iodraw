@@ -20,10 +20,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-5" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;宋体&quot;&gt;接受意识&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="190" y="430" width="90" height="40" as="geometry" />
+          <mxGeometry x="178" y="420" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rnVWVyAdBJaIFlmRBQSP-351" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rnVWVyAdBJaIFlmRBQSP-6" target="rnVWVyAdBJaIFlmRBQSP-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-6" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;宋体&quot;&gt;接受能力&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="135.5" y="341" width="90" height="40" as="geometry" />
+          <mxGeometry x="135.5" y="340" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-7" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;宋体&quot;&gt;接受意向&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="470" y="340" width="90" height="40" as="geometry" />
