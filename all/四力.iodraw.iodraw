@@ -87,8 +87,11 @@
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-266" value="信息需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="432" y="531" width="61" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="rnVWVyAdBJaIFlmRBQSP-332" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rnVWVyAdBJaIFlmRBQSP-269" target="rnVWVyAdBJaIFlmRBQSP-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rnVWVyAdBJaIFlmRBQSP-332" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="384.9937755552435" y="563.0134216970714" as="sourcePoint" />
+            <mxPoint x="372" y="470" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-269" value="信息需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="359" y="563" width="61" height="22" as="geometry" />
@@ -110,8 +113,11 @@
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-273" value="信息需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="611" y="370" width="61" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="rnVWVyAdBJaIFlmRBQSP-334" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rnVWVyAdBJaIFlmRBQSP-274" target="rnVWVyAdBJaIFlmRBQSP-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rnVWVyAdBJaIFlmRBQSP-334" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="472.0228200359236" y="494.437277835719" as="sourcePoint" />
+            <mxPoint x="381" y="470" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-274" value="信息需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="460" y="490" width="61" height="22" as="geometry" />
