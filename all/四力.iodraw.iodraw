@@ -619,13 +619,13 @@
           <mxGeometry x="340" y="140" width="61" height="22" as="geometry" />
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-277" value="信息需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="350" y="150" width="61" height="22" as="geometry" />
+          <mxGeometry x="450" y="152" width="61" height="22" as="geometry" />
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-278" value="信息需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="330" y="130" width="61" height="22" as="geometry" />
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-279" value="信息需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="340" y="140" width="61" height="22" as="geometry" />
+          <mxGeometry x="341" y="182" width="61" height="22" as="geometry" />
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-280" value="信息需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="290" y="252" width="61" height="22" as="geometry" />
@@ -640,7 +640,7 @@
           <mxGeometry x="229" y="585" width="61" height="22" as="geometry" />
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-282" value="信息需求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="330" y="130" width="61" height="22" as="geometry" />
+          <mxGeometry x="321" y="220" width="61" height="22" as="geometry" />
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-319" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rnVWVyAdBJaIFlmRBQSP-283" target="rnVWVyAdBJaIFlmRBQSP-5">
           <mxGeometry relative="1" as="geometry" />
