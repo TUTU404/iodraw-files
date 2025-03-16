@@ -103,13 +103,7 @@
           <mxGeometry x="36.5" y="380" width="61" height="22" as="geometry" />
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-266" value="信息性影响" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="640" y="89" width="61" height="22" as="geometry" />
-        </mxCell>
-        <mxCell id="rnVWVyAdBJaIFlmRBQSP-332" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="592.9937755552435" y="121.01342169707141" as="sourcePoint" />
-            <mxPoint x="580" y="28" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="567" y="165" width="61" height="22" as="geometry" />
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-269" value="规范性影响" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="567" y="121" width="61" height="22" as="geometry" />
@@ -119,12 +113,6 @@
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-273" value="增加投入" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="591" y="388" width="61" height="22" as="geometry" />
-        </mxCell>
-        <mxCell id="rnVWVyAdBJaIFlmRBQSP-334" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680.0228200359236" y="52.43727783571899" as="sourcePoint" />
-            <mxPoint x="589" y="28" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="rnVWVyAdBJaIFlmRBQSP-274" value="价值表现上的影响" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="720" y="89" width="61" height="22" as="geometry" />
