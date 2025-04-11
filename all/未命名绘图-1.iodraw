@@ -13,8 +13,8 @@
         <mxCell id="RJfcA5JRcAPUNwz35Orb-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;基本信息&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RJfcA5JRcAPUNwz35Orb-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;对国外用户接受度&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="400" width="120" height="38" as="geometry" />
+        <mxCell id="RJfcA5JRcAPUNwz35Orb-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;对国外用户&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;接受度&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="400" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RJfcA5JRcAPUNwz35Orb-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;性别、年龄、学历、小红书使用情况等&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="290" width="120" height="60" as="geometry" />
