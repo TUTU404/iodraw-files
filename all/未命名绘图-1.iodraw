@@ -13,7 +13,7 @@
         <mxCell id="RJfcA5JRcAPUNwz35Orb-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;基本信息&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RJfcA5JRcAPUNwz35Orb-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;对国外用户接受度&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="RJfcA5JRcAPUNwz35Orb-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;对国外用户接受度&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RJfcA5JRcAPUNwz35Orb-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;性别、年龄、学历、小红书使用情况等&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -23,7 +23,7 @@
           <mxGeometry x="500" y="371" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RJfcA5JRcAPUNwz35Orb-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;外部环境因素&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="430" width="110" height="30" as="geometry" />
+          <mxGeometry x="500" y="436" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RJfcA5JRcAPUNwz35Orb-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="320" width="50" height="100" as="geometry" />
