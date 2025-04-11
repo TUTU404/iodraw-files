@@ -10,8 +10,8 @@
         <mxCell id="RJfcA5JRcAPUNwz35Orb-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RJfcA5JRcAPUNwz35Orb-3" target="RJfcA5JRcAPUNwz35Orb-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RJfcA5JRcAPUNwz35Orb-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;基本信息&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="290" width="120" height="30" as="geometry" />
+        <mxCell id="RJfcA5JRcAPUNwz35Orb-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;基本信息&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="305" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RJfcA5JRcAPUNwz35Orb-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;对国外用户&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;接受度&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="394" width="120" height="50" as="geometry" />
