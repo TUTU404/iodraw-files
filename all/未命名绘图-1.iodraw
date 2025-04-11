@@ -10,11 +10,29 @@
         <mxCell id="RJfcA5JRcAPUNwz35Orb-2" value="小红书国内用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="340" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RJfcA5JRcAPUNwz35Orb-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RJfcA5JRcAPUNwz35Orb-3" target="RJfcA5JRcAPUNwz35Orb-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RJfcA5JRcAPUNwz35Orb-3" value="基本信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="210" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RJfcA5JRcAPUNwz35Orb-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RJfcA5JRcAPUNwz35Orb-5" target="RJfcA5JRcAPUNwz35Orb-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RJfcA5JRcAPUNwz35Orb-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RJfcA5JRcAPUNwz35Orb-5" target="RJfcA5JRcAPUNwz35Orb-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RJfcA5JRcAPUNwz35Orb-5" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RJfcA5JRcAPUNwz35Orb-7" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="554" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RJfcA5JRcAPUNwz35Orb-9" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RJfcA5JRcAPUNwz35Orb-11" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
