@@ -204,7 +204,12 @@
         <mxCell id="059JJubIWeOLU7nYBCk6-120" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.moon;rotation=75;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="350.82" y="256.44" width="9.5" height="90.71" as="geometry" />
         </mxCell>
-        <mxCell id="059JJubIWeOLU7nYBCk6-121" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.moon;rotation=115;fillColor=#000000;flipH=0;flipV=1;" vertex="1" parent="1">
+        <mxCell id="059JJubIWeOLU7nYBCk6-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="059JJubIWeOLU7nYBCk6-121">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="059JJubIWeOLU7nYBCk6-121" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.moon;rotation=75;fillColor=#000000;flipH=0;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="436.5" y="264" width="9.5" height="90.71" as="geometry" />
         </mxCell>
       </root>
