@@ -195,16 +195,16 @@
           <mxGeometry x="261" y="535" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-81" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.more_2;strokeColor=#000000;rotation=180;" vertex="1" parent="1">
-          <mxGeometry x="484" y="411" width="6" height="8" as="geometry" />
+          <mxGeometry x="474" y="411" width="6" height="8" as="geometry" />
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-82" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.more_2;strokeColor=#000000;rotation=180;" vertex="1" parent="1">
-          <mxGeometry x="484" y="451" width="6" height="8" as="geometry" />
+          <mxGeometry x="474" y="451" width="6" height="8" as="geometry" />
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-83" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.more_2;strokeColor=#000000;rotation=180;" vertex="1" parent="1">
-          <mxGeometry x="484" y="494" width="6" height="8" as="geometry" />
+          <mxGeometry x="474" y="494" width="6" height="8" as="geometry" />
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-84" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.more_2;strokeColor=#000000;rotation=180;" vertex="1" parent="1">
-          <mxGeometry x="484" y="541" width="6" height="8" as="geometry" />
+          <mxGeometry x="474" y="541" width="6" height="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
