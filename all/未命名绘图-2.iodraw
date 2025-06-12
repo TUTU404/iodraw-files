@@ -104,7 +104,7 @@
           <mxGeometry x="261" y="405" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-74" value="Point of Application of Force: Emigration Area" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="205" y="60" width="150" height="20" as="geometry" />
+          <mxGeometry x="207" y="320" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-75" value="Restraining Force" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="260" y="445" width="150" height="20" as="geometry" />
@@ -208,7 +208,7 @@
           <mxGeometry x="434.5" y="256.44" width="9.5" height="90.71" as="geometry" />
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-123" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=50;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="468.73" y="299" width="12.53" height="20" as="geometry" />
+          <mxGeometry x="465.73" y="303" width="12.53" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
