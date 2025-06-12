@@ -98,7 +98,7 @@
         <mxCell id="059JJubIWeOLU7nYBCk6-27" value="Pull Force" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="310" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="059JJubIWeOLU7nYBCk6-28" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="059JJubIWeOLU7nYBCk6-28" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="600" y="240" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
