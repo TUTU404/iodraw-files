@@ -149,6 +149,9 @@
         <mxCell id="059JJubIWeOLU7nYBCk6-47" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-size: 10px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Internal Push Force&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="430" y="400" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="059JJubIWeOLU7nYBCk6-52" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="425" width="10" height="15" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
