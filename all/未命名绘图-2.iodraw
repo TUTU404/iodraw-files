@@ -256,7 +256,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="059JJubIWeOLU7nYBCk6-97" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Four - Force Game&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="059JJubIWeOLU7nYBCk6-97" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Four - Force Game&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="130" y="411" width="60" height="149" as="geometry" />
         </mxCell>
       </root>
