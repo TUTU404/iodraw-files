@@ -185,8 +185,8 @@
         <mxCell id="059JJubIWeOLU7nYBCk6-76" value="Type and Direction of Force" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="231" y="380" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="059JJubIWeOLU7nYBCk6-77" value="Point of Application of Force: Emigration Area" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="340" y="380" width="150" height="20" as="geometry" />
+        <mxCell id="059JJubIWeOLU7nYBCk6-77" value="Dimension of Force" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="320" y="380" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
