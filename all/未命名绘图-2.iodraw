@@ -174,7 +174,7 @@
           <mxGeometry x="370" y="541" width="6" height="8" as="geometry" />
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-73" value="Driving Force" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="360" y="300" width="150" height="20" as="geometry" />
+          <mxGeometry x="261" y="405" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-74" value="Point of Application of Force: Emigration Area" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="340" y="255" width="150" height="20" as="geometry" />
@@ -187,6 +187,9 @@
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-77" value="Dimension of Force" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="311" y="370" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="059JJubIWeOLU7nYBCk6-79" value="Driving Force" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="261" y="488" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
