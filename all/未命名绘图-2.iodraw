@@ -4,20 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="059JJubIWeOLU7nYBCk6-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=10;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="304" as="sourcePoint" />
-            <mxPoint x="320" y="104" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-2" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=10;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="224" y="200" as="sourcePoint" />
             <mxPoint x="414" y="200" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="059JJubIWeOLU7nYBCk6-3" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-size: 10px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Internal Push Force&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="241" y="140" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-4" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-size: 10px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;External Push Force&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="220" y="530" width="60" height="30" as="geometry" />
@@ -33,9 +24,6 @@
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-8" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-size: 10px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;External Environmental Factors&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="414" y="190" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="059JJubIWeOLU7nYBCk6-9" value="Push Force" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="280" y="80" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-11" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;fontSize=10;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -175,6 +163,11 @@
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-73" value="Driving Force" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="261" y="405" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="059JJubIWeOLU7nYBCk6-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="059JJubIWeOLU7nYBCk6-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="90" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-74" value="Point of Application of Force: Emigration Area" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="340" y="255" width="150" height="20" as="geometry" />
