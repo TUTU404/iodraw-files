@@ -110,7 +110,7 @@
           <mxGeometry x="256" y="445" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-76" value="Type and&amp;nbsp;&lt;div&gt;Direction&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;of Force&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="207" y="370" width="90" height="20" as="geometry" />
+          <mxGeometry x="210" y="370" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-77" value="Dimension of Force" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="306" y="370" width="50" height="20" as="geometry" />
@@ -165,11 +165,11 @@
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-95" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="221" y="541" as="sourcePoint" />
-            <mxPoint x="221" y="411" as="targetPoint" />
+            <mxPoint x="223" y="541" as="sourcePoint" />
+            <mxPoint x="223" y="411" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="191" y="541" />
-              <mxPoint x="191" y="411" />
+              <mxPoint x="193" y="541" />
+              <mxPoint x="193" y="411" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -184,7 +184,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-97" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-size: 10px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Four - Force Game&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="164" y="400" width="60" height="149" as="geometry" />
+          <mxGeometry x="166" y="400" width="60" height="149" as="geometry" />
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-98" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-size: 10px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Four - Force Game&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=0;fontFamily=Times New Roman;flipH=1;flipV=0;rotation=-180;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="606" y="405" width="30" height="149" as="geometry" />
