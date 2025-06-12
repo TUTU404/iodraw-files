@@ -93,7 +93,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-26" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-size: 10px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;For the same point of application of force&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="400" y="60" width="90" height="30" as="geometry" />
+          <mxGeometry x="420" y="90" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-27" value="Pull Force" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="290" y="310" width="60" height="20" as="geometry" />
