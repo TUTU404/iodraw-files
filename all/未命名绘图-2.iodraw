@@ -34,7 +34,7 @@
         <mxCell id="059JJubIWeOLU7nYBCk6-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="414" y="190" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="059JJubIWeOLU7nYBCk6-9" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="059JJubIWeOLU7nYBCk6-9" value="Push forece" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="80" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -91,6 +91,9 @@
               <mxPoint x="520" y="70" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="059JJubIWeOLU7nYBCk6-26" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="60" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
