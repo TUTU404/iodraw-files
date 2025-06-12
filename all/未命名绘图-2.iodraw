@@ -120,34 +120,34 @@
           <mxGeometry x="220" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-41" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-size: 10px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;External Push Force&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="585" y="530" width="60" height="30" as="geometry" />
+          <mxGeometry x="579" y="530" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-42" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-size: 10px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Internal Pulling Force&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="585" y="440" width="60" height="30" as="geometry" />
+          <mxGeometry x="579" y="440" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-43" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-size: 10px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;External Pulling Force&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="585" y="483" width="60" height="30" as="geometry" />
+          <mxGeometry x="579" y="483" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-44" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontStyle=0;strokeWidth=2;endSize=1;startSize=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="615" y="446" as="sourcePoint" />
-            <mxPoint x="615" y="426" as="targetPoint" />
+            <mxPoint x="609" y="446" as="sourcePoint" />
+            <mxPoint x="609" y="426" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-45" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontStyle=0;strokeWidth=2;endSize=1;startSize=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="614.76" y="489" as="sourcePoint" />
-            <mxPoint x="614.76" y="469" as="targetPoint" />
+            <mxPoint x="608.76" y="489" as="sourcePoint" />
+            <mxPoint x="608.76" y="469" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-46" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontStyle=0;strokeWidth=2;endSize=1;startSize=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="614.52" y="533" as="sourcePoint" />
-            <mxPoint x="614.52" y="513" as="targetPoint" />
+            <mxPoint x="608.52" y="533" as="sourcePoint" />
+            <mxPoint x="608.52" y="513" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-47" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-size: 10px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Internal Push Force&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="585" y="400" width="60" height="30" as="geometry" />
+          <mxGeometry x="579" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-57" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.more;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="290" y="411" width="5" height="8" as="geometry" />
@@ -207,16 +207,16 @@
           <mxGeometry x="478" y="541" width="6" height="8" as="geometry" />
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-85" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.more;strokeColor=#000000;rotation=180;" vertex="1" parent="1">
-          <mxGeometry x="570" y="411" width="5" height="8" as="geometry" />
+          <mxGeometry x="564" y="411" width="5" height="8" as="geometry" />
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-86" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.more;strokeColor=#000000;rotation=180;" vertex="1" parent="1">
-          <mxGeometry x="570" y="451" width="5" height="8" as="geometry" />
+          <mxGeometry x="564" y="451" width="5" height="8" as="geometry" />
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-87" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.more;strokeColor=#000000;rotation=180;" vertex="1" parent="1">
-          <mxGeometry x="570" y="494" width="5" height="8" as="geometry" />
+          <mxGeometry x="564" y="494" width="5" height="8" as="geometry" />
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-88" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.more;strokeColor=#000000;rotation=180;" vertex="1" parent="1">
-          <mxGeometry x="570" y="541" width="5" height="8" as="geometry" />
+          <mxGeometry x="564" y="541" width="5" height="8" as="geometry" />
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-89" value="Driving Force" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="450" y="445" width="150" height="20" as="geometry" />
