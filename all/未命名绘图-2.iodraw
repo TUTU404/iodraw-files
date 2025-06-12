@@ -13,12 +13,6 @@
         <mxCell id="059JJubIWeOLU7nYBCk6-6" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-size: 10px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;External Pulling Force&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="216" y="483" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="059JJubIWeOLU7nYBCk6-7" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Migration Behavior&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="604" y="130" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="059JJubIWeOLU7nYBCk6-8" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-size: 10px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;External Environmental Factors&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="643" y="70" width="60" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font&gt;Migration Behavior&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="357" y="269" width="87" height="30" as="geometry" />
         </mxCell>
@@ -209,6 +203,9 @@
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-123" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=50;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="465.73" y="303" width="12.53" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="059JJubIWeOLU7nYBCk6-126" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
