@@ -156,13 +156,10 @@
           <mxGeometry x="290" y="451" width="5" height="8" as="geometry" />
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-60" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.more;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="290" y="500" width="5" height="8" as="geometry" />
+          <mxGeometry x="290" y="494" width="5" height="8" as="geometry" />
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-61" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.more;strokeColor=#000000;rotation=180;" vertex="1" parent="1">
           <mxGeometry x="290" y="540" width="5" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="059JJubIWeOLU7nYBCk6-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="059JJubIWeOLU7nYBCk6-60" target="059JJubIWeOLU7nYBCk6-60">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
