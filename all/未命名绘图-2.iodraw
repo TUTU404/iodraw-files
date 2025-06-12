@@ -152,7 +152,7 @@
           <mxGeometry x="400" y="535" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-91" value="Restraining Force" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="400" y="488" width="150" height="20" as="geometry" />
+          <mxGeometry x="394" y="488" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-92" value="Restraining Force" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="394" y="405" width="150" height="20" as="geometry" />
@@ -209,6 +209,9 @@
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-123" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=50;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="465.73" y="303" width="12.53" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="059JJubIWeOLU7nYBCk6-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.665;entryY=0.909;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="059JJubIWeOLU7nYBCk6-94" target="059JJubIWeOLU7nYBCk6-94">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
