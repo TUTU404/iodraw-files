@@ -173,7 +173,7 @@
         <mxCell id="059JJubIWeOLU7nYBCk6-68" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.more_2;strokeColor=#000000;rotation=180;" vertex="1" parent="1">
           <mxGeometry x="370" y="541" width="6" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="059JJubIWeOLU7nYBCk6-73" value="Point of Application of Force: Emigration Area" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="059JJubIWeOLU7nYBCk6-73" value="Driving Force" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="360" y="300" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-74" value="Point of Application of Force: Emigration Area" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
@@ -186,7 +186,7 @@
           <mxGeometry x="211" y="370" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-77" value="Dimension of Force" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="350" y="370" width="50" height="20" as="geometry" />
+          <mxGeometry x="311" y="370" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
