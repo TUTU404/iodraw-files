@@ -201,9 +201,6 @@
             <mxPoint x="340" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="059JJubIWeOLU7nYBCk6-116" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=55;" vertex="1" parent="1">
-          <mxGeometry x="377.88" y="331.99" width="241" height="73" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
