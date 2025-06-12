@@ -25,16 +25,6 @@
         <mxCell id="059JJubIWeOLU7nYBCk6-18" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-size: 10px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Internal Pulling Force&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="589" y="60" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="059JJubIWeOLU7nYBCk6-23" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;fontFamily=Times New Roman;fontSize=10;targetPerimeterSpacing=20;sourcePerimeterSpacing=20;endSize=6;strokeWidth=5;startArrow=diamondThin;startFill=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="320" as="sourcePoint" />
-            <mxPoint x="460" y="320" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="340.48" y="289.97" />
-              <mxPoint x="460.48" y="289.97" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-36" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontStyle=0;strokeWidth=2;endSize=1;startSize=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="246" y="446" as="sourcePoint" />
