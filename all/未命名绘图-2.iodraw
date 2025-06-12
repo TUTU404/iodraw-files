@@ -202,7 +202,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="059JJubIWeOLU7nYBCk6-120" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.moon;rotation=75;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="348.82" y="256.44" width="9.5" height="90.71" as="geometry" />
+          <mxGeometry x="350.82" y="256.44" width="9.5" height="90.71" as="geometry" />
+        </mxCell>
+        <mxCell id="059JJubIWeOLU7nYBCk6-121" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.moon;rotation=75;fillColor=#000000;flipH=0;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="360.82" y="266.44" width="9.5" height="90.71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
