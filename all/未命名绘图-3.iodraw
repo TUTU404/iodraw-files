@@ -304,6 +304,12 @@
         <mxCell id="wV5LkP-Rb20CShHOCvNW-267" value="&lt;font face=&quot;Times New Roman&quot;&gt;DJ1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="80" width="46" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="wV5LkP-Rb20CShHOCvNW-273" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="90" as="sourcePoint" />
+            <mxPoint x="330" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
