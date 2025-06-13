@@ -67,27 +67,6 @@
             <mxPoint x="570" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wV5LkP-Rb20CShHOCvNW-120" value="&lt;font face=&quot;Times New Roman&quot;&gt;H3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="460" y="370" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wV5LkP-Rb20CShHOCvNW-121" value="&lt;font face=&quot;Times New Roman&quot;&gt;H1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="460" y="310" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wV5LkP-Rb20CShHOCvNW-122" value="&lt;font face=&quot;Times New Roman&quot;&gt;H4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="540" y="380" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wV5LkP-Rb20CShHOCvNW-123" value="&lt;font face=&quot;Times New Roman&quot;&gt;H2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="450" y="334" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wV5LkP-Rb20CShHOCvNW-124" value="&lt;font face=&quot;Times New Roman&quot;&gt;H7&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="607" y="332" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wV5LkP-Rb20CShHOCvNW-125" value="&lt;font face=&quot;Times New Roman&quot;&gt;H6&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="660" y="300" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wV5LkP-Rb20CShHOCvNW-126" value="&lt;font face=&quot;Times New Roman&quot;&gt;H5&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="560" y="300" width="40" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
