@@ -604,7 +604,10 @@
           <mxGeometry x="106" y="411" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wV5LkP-Rb20CShHOCvNW-389" value=".69" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="166" y="385" width="60" height="30" as="geometry" />
+          <mxGeometry x="99" y="427" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wV5LkP-Rb20CShHOCvNW-390" value=".69" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="149" y="393" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
