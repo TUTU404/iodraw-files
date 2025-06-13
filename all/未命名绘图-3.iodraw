@@ -700,10 +700,10 @@
           <mxGeometry x="397" y="212" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wV5LkP-Rb20CShHOCvNW-426" value=".32" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="220" y="280" width="60" height="30" as="geometry" />
+          <mxGeometry x="220" y="304" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wV5LkP-Rb20CShHOCvNW-427" value=".46" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="213" y="373" width="60" height="30" as="geometry" />
+          <mxGeometry x="230" y="377" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
