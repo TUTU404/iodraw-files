@@ -8,7 +8,7 @@
           <mxGeometry x="320" y="140" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wV5LkP-Rb20CShHOCvNW-34" value="Internal Push Force" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="320" y="60" width="120" height="30" as="geometry" />
+          <mxGeometry x="270" y="68" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wV5LkP-Rb20CShHOCvNW-35" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:&#39;Times New Roman&#39;;mso-fareast-font-family:宋体;&#xa;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;Development Need&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="98" width="120" height="30" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="320" y="170" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wV5LkP-Rb20CShHOCvNW-39" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:&#39;Times New Roman&#39;;mso-fareast-font-family:宋体;&#xa;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;User Migration Stickiness&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="330" width="120" height="30" as="geometry" />
+          <mxGeometry x="640" y="330" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wV5LkP-Rb20CShHOCvNW-41" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&#xa;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&#xa;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Policy Influence&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="90" width="120" height="30" as="geometry" />
@@ -32,19 +32,19 @@
           <mxGeometry x="460" y="128" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wV5LkP-Rb20CShHOCvNW-43" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&#xa;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&#xa;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Situational Trigger&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="455" y="360" width="120" height="30" as="geometry" />
+          <mxGeometry x="805" y="360" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wV5LkP-Rb20CShHOCvNW-45" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:&#39;Times New Roman&#39;;mso-fareast-font-family:宋体;&#xa;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;Platform Competition&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="455" y="410" width="120" height="30" as="geometry" />
+          <mxGeometry x="805" y="410" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wV5LkP-Rb20CShHOCvNW-47" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:&#39;Times New Roman&#39;;mso-fareast-font-family:宋体;&#xa;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;Platform Need Anchoring&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="455" y="328" width="120" height="30" as="geometry" />
+          <mxGeometry x="805" y="328" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wV5LkP-Rb20CShHOCvNW-48" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&#xa;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&#xa;mso-font-kerning:1.0000pt;&quot;&gt;&amp;nbsp;&lt;font face=&quot;Times New Roman&quot;&gt;Unconscious Need Trigger&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="420" width="120" height="30" as="geometry" />
+          <mxGeometry x="644" y="420" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wV5LkP-Rb20CShHOCvNW-49" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&#xa;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&#xa;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;User Autonomous Control&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="370" width="120" height="30" as="geometry" />
+          <mxGeometry x="640" y="370" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wV5LkP-Rb20CShHOCvNW-50" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&#xa;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&#xa;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;User Expectation Transformation&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="220" width="120" height="30" as="geometry" />
@@ -53,16 +53,16 @@
           <mxGeometry x="465" y="48" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wV5LkP-Rb20CShHOCvNW-56" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:&#39;Times New Roman&#39;;mso-fareast-font-family:宋体;&#xa;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;Internal pulling forces&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="278" width="130" height="50" as="geometry" />
+          <mxGeometry x="650" y="278" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wV5LkP-Rb20CShHOCvNW-57" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:&#39;Times New Roman&#39;;mso-fareast-font-family:宋体;&#xa;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;External &lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&#xa;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&#xa;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;push&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:&#39;Times New Roman&#39;;mso-fareast-font-family:宋体;&#xa;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&amp;nbsp;forces &lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="455" y="278" width="140" height="30" as="geometry" />
+          <mxGeometry x="805" y="278" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wV5LkP-Rb20CShHOCvNW-58" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:&#39;Times New Roman&#39;;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;Driving Force&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="280" y="30" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wV5LkP-Rb20CShHOCvNW-60" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:&#39;Times New Roman&#39;;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;Restraining Force&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="520" y="470" width="110" height="50" as="geometry" />
+          <mxGeometry x="870" y="470" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
