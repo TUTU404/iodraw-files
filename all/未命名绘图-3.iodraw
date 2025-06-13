@@ -296,7 +296,7 @@
           <mxGeometry x="280" y="474" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wV5LkP-Rb20CShHOCvNW-230" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;Acceptance Intention&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="660" width="90" height="40" as="geometry" />
+          <mxGeometry x="634" y="300" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wV5LkP-Rb20CShHOCvNW-231" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;Reference Groups&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="635" y="189" width="90" height="40" as="geometry" />
@@ -306,6 +306,9 @@
         </mxCell>
         <mxCell id="wV5LkP-Rb20CShHOCvNW-233" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;Acceptance Attitude&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="465" y="244" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wV5LkP-Rb20CShHOCvNW-234" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="296" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
