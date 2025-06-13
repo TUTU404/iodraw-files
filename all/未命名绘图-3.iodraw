@@ -68,19 +68,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wV5LkP-Rb20CShHOCvNW-129" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;Content experience needs&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="210" width="100" height="40" as="geometry" />
+          <mxGeometry x="120" y="110" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wV5LkP-Rb20CShHOCvNW-130" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;rgba(0, 0, 0, 0.85)&quot;&gt;Social needs&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="350" width="100" height="40" as="geometry" />
+        <mxCell id="wV5LkP-Rb20CShHOCvNW-130" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Social needs&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="250" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wV5LkP-Rb20CShHOCvNW-131" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Leisure and entertainment needs&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="250" width="100" height="40" as="geometry" />
+          <mxGeometry x="120" y="150" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wV5LkP-Rb20CShHOCvNW-132" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;Content experience needs&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="490" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wV5LkP-Rb20CShHOCvNW-133" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: rgb(255, 255, 255);&quot;&gt;I&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;nformation needs&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="300" width="100" height="40" as="geometry" />
+          <mxGeometry x="120" y="200" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
