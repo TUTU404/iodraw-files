@@ -37,15 +37,15 @@
         <mxCell id="Jf3mOXT3M3RetwixwtKU-20" value="Pull Force" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;fontFamily=Times New Roman;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-1134" y="695" width="20" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Jf3mOXT3M3RetwixwtKU-24" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=14.285714285714286;endSize=14.014285714285716;" edge="1" parent="1">
+        <mxCell id="Jf3mOXT3M3RetwixwtKU-24" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=14.285714285714286;endSize=9.971428571428573;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-800" y="681.29" as="sourcePoint" />
-            <mxPoint x="-670" y="681" as="targetPoint" />
+            <mxPoint x="-800" y="684.29" as="sourcePoint" />
+            <mxPoint x="-670" y="684" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Jf3mOXT3M3RetwixwtKU-25" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;Common Point&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;of Application&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="Jf3mOXT3M3RetwixwtKU-24">
           <mxGeometry x="-0.4736" y="-1" relative="1" as="geometry">
-            <mxPoint x="16" y="-42" as="offset" />
+            <mxPoint x="20" y="-52" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
