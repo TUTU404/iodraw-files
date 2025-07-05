@@ -13,7 +13,7 @@
         <mxCell id="Jf3mOXT3M3RetwixwtKU-11" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.personalization;" vertex="1" parent="1">
           <mxGeometry x="-651" y="659.5" width="60" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="Jf3mOXT3M3RetwixwtKU-12" value="&lt;font color=&quot;#1c43a9&quot;&gt;Internal Push Force&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=#fbf5ff;strokeColor=#e9daf9;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Jf3mOXT3M3RetwixwtKU-12" value="&lt;font&gt;Internal Push Force&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=#fbf5ff;strokeColor=#e9daf9;fontStyle=1;fontColor=#814ca8;" vertex="1" parent="1">
           <mxGeometry x="-1100" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jf3mOXT3M3RetwixwtKU-14" value="Internal Pull Force" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fontStyle=1;fillColor=#fbf5ff;strokeColor=#ebddf7;fontColor=#814ca8;" vertex="1" parent="1">
@@ -22,7 +22,7 @@
         <mxCell id="Jf3mOXT3M3RetwixwtKU-15" value="External Push Force" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fontStyle=1;fillColor=#fbf5ff;strokeColor=#ebddf7;fontColor=#814ca8;" vertex="1" parent="1">
           <mxGeometry x="-947" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jf3mOXT3M3RetwixwtKU-16" value="&lt;font&gt;External Pull Force&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=#fbf5ff;strokeColor=#e9daf9;fontStyle=1;fontColor=#1c43a8;" vertex="1" parent="1">
+        <mxCell id="Jf3mOXT3M3RetwixwtKU-16" value="&lt;font&gt;External Pull Force&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=#fbf5ff;strokeColor=#e9daf9;fontStyle=1;fontColor=#814ca8;" vertex="1" parent="1">
           <mxGeometry x="-947" y="705" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jf3mOXT3M3RetwixwtKU-17" value="Internal Factors" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontStyle=1;fontSize=16;" vertex="1" parent="1">
@@ -74,7 +74,7 @@
           <mxGeometry x="-600" y="738" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Jf3mOXT3M3RetwixwtKU-63" value="&lt;font face=&quot;Times New Roman&quot;&gt;Common Point&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;of Application&lt;/font&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=left;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.28;dx=22.4;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="-819" y="670" width="109" height="42" as="geometry" />
+          <mxGeometry x="-819" y="659.5" width="89" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
