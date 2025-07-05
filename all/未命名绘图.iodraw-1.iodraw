@@ -60,11 +60,8 @@
             <mxPoint x="-508" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jf3mOXT3M3RetwixwtKU-37" value="" style="endArrow=open;html=1;rounded=1;endFill=0;startArrow=none;startFill=0;curved=0;strokeColor=#A680B8;jumpStyle=arc;jumpSize=100;flowAnimation=0;shadow=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-490" y="800" as="sourcePoint" />
-            <mxPoint x="-490" y="772.9999999999999" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="Jf3mOXT3M3RetwixwtKU-46" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.expand;fillColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="775" width="24" height="6" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
