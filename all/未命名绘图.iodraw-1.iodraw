@@ -22,11 +22,11 @@
         <mxCell id="Jf3mOXT3M3RetwixwtKU-16" value="&lt;font color=&quot;#1c43a9&quot;&gt;External Pull Force&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-947" y="705" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jf3mOXT3M3RetwixwtKU-17" value="Internal Factors" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1090" y="595" width="100" height="20" as="geometry" />
+        <mxCell id="Jf3mOXT3M3RetwixwtKU-17" value="Internal Factors" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1100" y="595" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Jf3mOXT3M3RetwixwtKU-18" value="External Factors" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-937" y="595" width="100" height="20" as="geometry" />
+        <mxCell id="Jf3mOXT3M3RetwixwtKU-18" value="External Factors" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-937" y="595" width="127" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Jf3mOXT3M3RetwixwtKU-19" value="Push Force" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;fontFamily=Times New Roman;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-1130" y="610" width="20" height="80" as="geometry" />
