@@ -71,7 +71,7 @@
           <mxGeometry x="-760.5" y="584" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jf3mOXT3M3RetwixwtKU-55" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Internal Push Force&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#814ca8;labelBackgroundColor=none;fontSize=16;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-610" y="750" width="200" height="50" as="geometry" />
+          <mxGeometry x="-623" y="732" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jf3mOXT3M3RetwixwtKU-63" value="&lt;font face=&quot;Times New Roman&quot;&gt;Common Point&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;of Application&lt;/font&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=left;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.28;dx=22.4;notch=0;" vertex="1" parent="1">
           <mxGeometry x="-819" y="659.5" width="89" height="42" as="geometry" />
