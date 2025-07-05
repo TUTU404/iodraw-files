@@ -16,10 +16,10 @@
         <mxCell id="Jf3mOXT3M3RetwixwtKU-12" value="&lt;font&gt;Internal Push Force&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=#fbf5ff;strokeColor=#e9daf9;fontStyle=1;fontColor=#814ca8;" vertex="1" parent="1">
           <mxGeometry x="-1100" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jf3mOXT3M3RetwixwtKU-14" value="Internal Pull Force" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fontStyle=1;fillColor=#fbf5ff;strokeColor=#ebddf7;fontColor=#814ca8;" vertex="1" parent="1">
+        <mxCell id="Jf3mOXT3M3RetwixwtKU-14" value="Internal Pull Force" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fontStyle=1;fillColor=#fbf5ff;strokeColor=#ebddf7;fontColor=#1c43a8;" vertex="1" parent="1">
           <mxGeometry x="-1100" y="705" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jf3mOXT3M3RetwixwtKU-15" value="External Push Force" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fontStyle=1;fillColor=#fbf5ff;strokeColor=#ebddf7;fontColor=#814ca8;" vertex="1" parent="1">
+        <mxCell id="Jf3mOXT3M3RetwixwtKU-15" value="External Push Force" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fontStyle=1;fillColor=#fbf5ff;strokeColor=#ebddf7;fontColor=#1c43a8;" vertex="1" parent="1">
           <mxGeometry x="-947" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jf3mOXT3M3RetwixwtKU-16" value="&lt;font&gt;External Pull Force&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=#fbf5ff;strokeColor=#e9daf9;fontStyle=1;fontColor=#814ca8;" vertex="1" parent="1">
