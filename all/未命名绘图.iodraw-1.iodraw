@@ -11,7 +11,7 @@
           <mxGeometry x="-1250" y="160" width="1200" height="389" as="geometry" />
         </mxCell>
         <mxCell id="Jf3mOXT3M3RetwixwtKU-11" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.personalization;" vertex="1" parent="1">
-          <mxGeometry x="-610" y="670" width="60" height="45" as="geometry" />
+          <mxGeometry x="-610" y="680" width="60" height="45" as="geometry" />
         </mxCell>
         <mxCell id="Jf3mOXT3M3RetwixwtKU-12" value="&lt;font color=&quot;#1c43a9&quot;&gt;Internal Push Force&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=#dae8fc;strokeColor=#cee0f5;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1100" y="620" width="120" height="60" as="geometry" />
