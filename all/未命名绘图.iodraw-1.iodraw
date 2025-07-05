@@ -60,11 +60,11 @@
             <mxPoint x="-508" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jf3mOXT3M3RetwixwtKU-47" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.expand;fillColor=#c0c0c0;" vertex="1" parent="1">
+        <mxCell id="Jf3mOXT3M3RetwixwtKU-47" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.expand;fillColor=#fbf5ff;" vertex="1" parent="1">
           <mxGeometry x="-680" y="620" width="24" height="6" as="geometry" />
         </mxCell>
-        <mxCell id="Jf3mOXT3M3RetwixwtKU-48" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.expand;fillColor=#c0c0c0;" vertex="1" parent="1">
-          <mxGeometry x="-670" y="630" width="24" height="6" as="geometry" />
+        <mxCell id="Jf3mOXT3M3RetwixwtKU-48" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.expand;fillColor=#fbf5ff;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="732" width="24" height="6" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
