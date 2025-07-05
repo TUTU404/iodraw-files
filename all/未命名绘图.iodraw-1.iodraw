@@ -43,7 +43,7 @@
             <mxPoint x="-720" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jf3mOXT3M3RetwixwtKU-29" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;Common Point&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;of Application&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;labelBorderColor=none;" vertex="1" connectable="0" parent="Jf3mOXT3M3RetwixwtKU-28">
+        <mxCell id="Jf3mOXT3M3RetwixwtKU-29" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;Common Point&lt;/font&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;of Application&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;labelBorderColor=none;" vertex="1" connectable="0" parent="Jf3mOXT3M3RetwixwtKU-28">
           <mxGeometry x="-0.4736" y="-1" relative="1" as="geometry">
             <mxPoint x="18" y="-52" as="offset" />
           </mxGeometry>
