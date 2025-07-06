@@ -92,7 +92,7 @@
           <mxGeometry x="370" y="767" width="216" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZgKhGs_iM-nsoMqWIVrY-74" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.left;strokeColor=#0080f0;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="775" width="8" height="24" as="geometry" />
+          <mxGeometry x="350" y="779" width="8" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
