@@ -10,7 +10,7 @@
         <mxCell id="Jf3mOXT3M3RetwixwtKU-11" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.personalization;" parent="1" vertex="1">
           <mxGeometry x="-640" y="665.5" width="60" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="Jf3mOXT3M3RetwixwtKU-12" value="&lt;font&gt;Internal Push Force&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=#bbf7d0;strokeColor=#e9daf9;fontStyle=1;fontColor=#166534;" parent="1" vertex="1">
+        <mxCell id="Jf3mOXT3M3RetwixwtKU-12" value="&lt;font&gt;Internal Push Force&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=#bbf7d0;strokeColor=#237040;fontStyle=1;fontColor=#166534;" parent="1" vertex="1">
           <mxGeometry x="-1100" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jf3mOXT3M3RetwixwtKU-14" value="Internal Pull Force" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fontStyle=1;fillColor=#eff6ff;strokeColor=#d5e8fa;fontColor=#1c43a8;" parent="1" vertex="1">
