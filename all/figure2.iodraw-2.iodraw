@@ -98,10 +98,10 @@
           <mxGeometry x="340" y="779" width="8" height="16" as="geometry" />
         </mxCell>
         <mxCell id="ZgKhGs_iM-nsoMqWIVrY-76" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.left;strokeColor=#dc2626;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="612.5" y="779" width="8" height="16" as="geometry" />
+          <mxGeometry x="610.5" y="779" width="8" height="16" as="geometry" />
         </mxCell>
         <mxCell id="ZgKhGs_iM-nsoMqWIVrY-77" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.left;strokeColor=#dc2626;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="602.5" y="779" width="8" height="16" as="geometry" />
+          <mxGeometry x="600.5" y="779" width="8" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
