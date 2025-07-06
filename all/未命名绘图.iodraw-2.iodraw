@@ -52,8 +52,11 @@
         <mxCell id="HJ7M3kMwMjIQaBI7MgF2-27" value="Internal Pull Force" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0fdf4;strokeColor=#bbf7d0;align=left;" vertex="1" parent="1">
           <mxGeometry x="-350" y="660" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HJ7M3kMwMjIQaBI7MgF2-31" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0fdf4;strokeColor=#bbf7d0;align=left;" vertex="1" parent="1">
+        <mxCell id="HJ7M3kMwMjIQaBI7MgF2-31" value="External Push Force" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0fdf4;strokeColor=#bbf7d0;align=left;" vertex="1" parent="1">
           <mxGeometry x="-350" y="780" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HJ7M3kMwMjIQaBI7MgF2-34" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;Restaining Force&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#fecaca;shape=mxgraph.archimate3.service;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="612.5" width="150" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
