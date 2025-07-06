@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="h62fpzzPxUdsc5cZIsVk">
-    <mxGraphModel dx="1407" dy="930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3061" dy="930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,13 @@
           <mxGeometry x="120" y="410" width="290" height="290" as="geometry" />
         </mxCell>
         <mxCell id="ZgKhGs_iM-nsoMqWIVrY-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;arcSize=6;" vertex="1" parent="1">
-          <mxGeometry x="130" y="420" width="290" height="290" as="geometry" />
+          <mxGeometry x="510" y="410" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgKhGs_iM-nsoMqWIVrY-3" value="&lt;font&gt;Internal Push Force&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=#f0fdf4;strokeColor=#bbf7d0;fontStyle=1;fontColor=#166534;" vertex="1" parent="1">
+          <mxGeometry x="-1100" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgKhGs_iM-nsoMqWIVrY-4" value="External Push Force" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fontStyle=1;fillColor=#fef2f2;strokeColor=#fecaca;fontColor=#991b1b;" vertex="1" parent="1">
+          <mxGeometry x="-947" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
