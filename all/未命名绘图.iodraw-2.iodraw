@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HJ7M3kMwMjIQaBI7MgF2-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#fecaca;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="HJ7M3kMwMjIQaBI7MgF2-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#fecaca;strokeWidth=2;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="-800" y="585" width="340" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="HJ7M3kMwMjIQaBI7MgF2-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#bbf7d0;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="HJ7M3kMwMjIQaBI7MgF2-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#bbf7d0;strokeWidth=2;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="-360" y="530" width="340" height="310" as="geometry" />
         </mxCell>
         <mxCell id="HJ7M3kMwMjIQaBI7MgF2-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef2f2;strokeColor=#fecaca;" vertex="1" parent="1">
