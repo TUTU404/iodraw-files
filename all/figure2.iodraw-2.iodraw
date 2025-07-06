@@ -70,7 +70,7 @@
         <mxCell id="ZgKhGs_iM-nsoMqWIVrY-68" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(6, 95, 70); font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 11px; text-align: left;&quot;&gt;Emotional Drive&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacing=0;verticalAlign=middle;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="691" y="615.5" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZgKhGs_iM-nsoMqWIVrY-69" value="" style="endArrow=oval;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;endFill=1;startSize=20;endSize=20;" edge="1" parent="1">
+        <mxCell id="ZgKhGs_iM-nsoMqWIVrY-69" value="" style="endArrow=oval;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;endFill=1;startSize=20;endSize=10;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="276" y="680" as="sourcePoint" />
             <mxPoint x="451" y="760" as="targetPoint" />
