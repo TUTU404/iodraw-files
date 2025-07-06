@@ -85,7 +85,7 @@
         <mxCell id="HJ7M3kMwMjIQaBI7MgF2-63" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=10;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-550" y="450" width="330" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="HJ7M3kMwMjIQaBI7MgF2-66" value="Migration" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HJ7M3kMwMjIQaBI7MgF2-66" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Migration Behavior&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-460" y="390" width="310" height="30" as="geometry" />
         </mxCell>
       </root>
