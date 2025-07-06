@@ -100,6 +100,9 @@
         <mxCell id="ZgKhGs_iM-nsoMqWIVrY-47" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(6, 95, 70); font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 16px;&quot;&gt;Development Need&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacing=0;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="137" y="530" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ZgKhGs_iM-nsoMqWIVrY-51" value="&amp;nbsp; Internal Pull Force" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0fdf4;strokeColor=#bbf7d0;align=left;fontFamily=Times New Roman;fontSize=18;fontColor=#166534;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="127.5" y="490" width="210" height="200" as="geometry" />
+        </mxCell>
         <mxCell id="ZgKhGs_iM-nsoMqWIVrY-48" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(6, 95, 70); font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 16px; text-align: left;&quot;&gt;Information Literacy&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacing=0;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="137" y="560" width="140" height="30" as="geometry" />
         </mxCell>
@@ -108,9 +111,6 @@
         </mxCell>
         <mxCell id="ZgKhGs_iM-nsoMqWIVrY-50" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(6, 95, 70); font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 16px; text-align: left;&quot;&gt;Emotional Drive&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacing=0;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="137" y="620" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZgKhGs_iM-nsoMqWIVrY-51" value="&amp;nbsp; Internal Pull Force" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0fdf4;strokeColor=#bbf7d0;align=left;fontFamily=Times New Roman;fontSize=18;fontColor=#166534;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="120" y="760" width="330" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
