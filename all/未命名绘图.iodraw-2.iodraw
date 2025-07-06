@@ -10,38 +10,11 @@
         <mxCell id="HJ7M3kMwMjIQaBI7MgF2-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#bbf7d0;strokeWidth=2;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="-360" y="530" width="340" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="HJ7M3kMwMjIQaBI7MgF2-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef2f2;strokeColor=#fecaca;" vertex="1" parent="1">
-          <mxGeometry x="-730" y="260" width="320" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="HJ7M3kMwMjIQaBI7MgF2-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef2f2;strokeColor=#fecaca;" vertex="1" parent="1">
-          <mxGeometry x="-490" y="250" width="320" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="HJ7M3kMwMjIQaBI7MgF2-7" value="&amp;nbsp; External Pull Force" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef2f2;strokeColor=#fecaca;align=left;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-350" y="720" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HJ7M3kMwMjIQaBI7MgF2-8" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;&amp;nbsp; Internal Push Force&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef2f2;strokeColor=#fecaca;align=left;" vertex="1" parent="1">
           <mxGeometry x="-350" y="600" width="320" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="HJ7M3kMwMjIQaBI7MgF2-16" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#fecaca;shape=mxgraph.archimate3.service;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="450" width="60" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="HJ7M3kMwMjIQaBI7MgF2-17" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#fecaca;shape=mxgraph.archimate3.service;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-450" y="272.5" width="60" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="HJ7M3kMwMjIQaBI7MgF2-18" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#fecaca;shape=mxgraph.archimate3.service;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="262.5" width="60" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="HJ7M3kMwMjIQaBI7MgF2-22" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#bbf7d0;shape=mxgraph.archimate3.service;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-430" y="430" width="60" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="HJ7M3kMwMjIQaBI7MgF2-23" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#bbf7d0;shape=mxgraph.archimate3.service;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="440" width="60" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="HJ7M3kMwMjIQaBI7MgF2-24" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#bbf7d0;shape=mxgraph.archimate3.service;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-410" y="450" width="60" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="HJ7M3kMwMjIQaBI7MgF2-25" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#bbf7d0;shape=mxgraph.archimate3.service;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="460" width="60" height="35" as="geometry" />
         </mxCell>
         <mxCell id="HJ7M3kMwMjIQaBI7MgF2-27" value="&amp;nbsp; Internal Pull Force" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0fdf4;strokeColor=#bbf7d0;align=left;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-350" y="660" width="320" height="40" as="geometry" />
