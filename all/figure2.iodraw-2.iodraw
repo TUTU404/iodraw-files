@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="h62fpzzPxUdsc5cZIsVk">
-    <mxGraphModel dx="701" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="691" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -114,6 +114,18 @@
         </mxCell>
         <mxCell id="ZgKhGs_iM-nsoMqWIVrY-54" value="&amp;nbsp; External Push Force" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0fdf4;strokeColor=#bbf7d0;align=left;fontFamily=Times New Roman;fontSize=18;fontColor=#166534;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="300" y="490" width="162.5" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgKhGs_iM-nsoMqWIVrY-57" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(6, 95, 70); font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 16px;&quot;&gt;Development Need&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacing=0;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="311.25" y="530" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgKhGs_iM-nsoMqWIVrY-58" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(6, 95, 70); font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 16px; text-align: left;&quot;&gt;Information Literacy&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacing=0;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="311.25" y="560" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgKhGs_iM-nsoMqWIVrY-59" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(6, 95, 70); font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 16px; text-align: left;&quot;&gt;Self - Expression&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacing=0;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="311.25" y="590" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgKhGs_iM-nsoMqWIVrY-60" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(6, 95, 70); font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 16px; text-align: left;&quot;&gt;Emotional Drive&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacing=0;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="311.25" y="620" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
