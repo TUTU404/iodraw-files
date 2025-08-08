@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" scale="4" border="0" version="24.7.17">
   <diagram name="第 1 页" id="h62fpzzPxUdsc5cZIsVk">
-    <mxGraphModel dx="687" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="802" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,7 +52,7 @@
         <mxCell id="ZgKhGs_iM-nsoMqWIVrY-60" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(6, 95, 70); font-family: &amp;quot;Times New Roman&amp;quot;, serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;User Expectation&lt;/font&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacing=0;verticalAlign=middle;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="311.25" y="620" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZgKhGs_iM-nsoMqWIVrY-63" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(6, 95, 70); font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 11px; text-align: left;&quot;&gt;Information Literacy&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacing=0;verticalAlign=middle;fontSize=11;" parent="1" vertex="1">
+        <mxCell id="ZgKhGs_iM-nsoMqWIVrY-63" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Times New Roman, serif&quot; color=&quot;#065f46&quot;&gt;User Migration&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacing=0;verticalAlign=middle;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="518.5" y="555.5" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZgKhGs_iM-nsoMqWIVrY-64" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(6, 95, 70); font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 11px; text-align: left;&quot;&gt;Self - Expression&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacing=0;verticalAlign=middle;fontSize=11;" parent="1" vertex="1">
@@ -64,7 +64,7 @@
         <mxCell id="ZgKhGs_iM-nsoMqWIVrY-66" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(6, 95, 70); font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 11px; text-align: left;&quot;&gt;Policy Influence&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacing=0;verticalAlign=middle;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="691" y="555.5" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZgKhGs_iM-nsoMqWIVrY-67" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Times New Roman, serif&quot; color=&quot;#065f46&quot;&gt;Platform Resource&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacing=0;verticalAlign=middle;fontSize=11;" parent="1" vertex="1">
+        <mxCell id="ZgKhGs_iM-nsoMqWIVrY-67" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Times New Roman, serif&quot; color=&quot;#065f46&quot;&gt;Platform Resource&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;&lt;font face=&quot;Times New Roman, serif&quot; color=&quot;#065f46&quot;&gt;Attraction&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacing=0;verticalAlign=middle;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="691" y="585.5" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZgKhGs_iM-nsoMqWIVrY-68" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(6, 95, 70); font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 11px; text-align: left;&quot;&gt;Emotional Drive&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacing=0;verticalAlign=middle;fontSize=11;" parent="1" vertex="1">
