@@ -20,7 +20,7 @@
           <mxGeometry x="200" y="87" width="142" height="147" as="geometry" />
         </mxCell>
         <mxCell id="IXT24WpNEI1WU7yKb-y4-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="248" width="142" height="148" as="geometry" />
+          <mxGeometry x="200" y="248" width="142" height="122" as="geometry" />
         </mxCell>
         <mxCell id="IXT24WpNEI1WU7yKb-y4-7" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&lt;br/&gt;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Information Literacy&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="220" y="134" width="120" height="30" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="450" y="450" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IXT24WpNEI1WU7yKb-y4-22" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:&#39;Times New Roman&#39;;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;External pull forces&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="194" y="364" width="120" height="50" as="geometry" />
+          <mxGeometry x="194" y="334" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IXT24WpNEI1WU7yKb-y4-23" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:&#39;Times New Roman&#39;;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;Internal pull forces&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="637" y="90" width="110" height="50" as="geometry" />
@@ -136,9 +136,9 @@
             <mxPoint x="450" y="259" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IXT24WpNEI1WU7yKb-y4-38" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.316;exitY=0.871;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IXT24WpNEI1WU7yKb-y4-30" target="IXT24WpNEI1WU7yKb-y4-21">
+        <mxCell id="IXT24WpNEI1WU7yKb-y4-38" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="IXT24WpNEI1WU7yKb-y4-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="523" y="326" as="sourcePoint" />
+            <mxPoint x="490" y="360" as="sourcePoint" />
             <mxPoint x="460" y="269" as="targetPoint" />
           </mxGeometry>
         </mxCell>
