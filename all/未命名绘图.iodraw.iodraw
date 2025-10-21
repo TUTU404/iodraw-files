@@ -247,9 +247,6 @@
         <mxCell id="IXT24WpNEI1WU7yKb-y4-67" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;Platform Competition&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacing=0;verticalAlign=middle;fontSize=11;fontColor=#b31b1b;" vertex="1" parent="1">
           <mxGeometry x="951.0000000000001" y="719.5" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IXT24WpNEI1WU7yKb-y4-68" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;Negative Environment&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacing=0;verticalAlign=middle;fontSize=11;fontColor=#b31b1b;" vertex="1" parent="1">
-          <mxGeometry x="951.0000000000001" y="749.5" width="140" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="IXT24WpNEI1WU7yKb-y4-69" value="" style="endArrow=oval;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;endFill=1;startSize=20;endSize=10;strokeColor=#16a34a;fillColor=#d5e8d4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="536" y="830" as="sourcePoint" />
