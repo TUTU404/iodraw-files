@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="izZhCzH8tZMPhMFalKPk">
-    <mxGraphModel dx="753" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="628" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,10 +17,10 @@
           <mxGeometry x="482.5" y="605.002336965654" width="145" height="25" as="geometry" />
         </mxCell>
         <mxCell id="IXT24WpNEI1WU7yKb-y4-51" value="&amp;nbsp; External Push Force" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef2f2;strokeColor=#fecaca;align=left;fontFamily=Times New Roman;fontSize=18;fontColor=#991b1b;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="936" y="673.25" width="162.5" height="136.75" as="geometry" />
+          <mxGeometry x="936" y="670" width="162.5" height="140" as="geometry" />
         </mxCell>
         <mxCell id="IXT24WpNEI1WU7yKb-y4-52" value="&amp;nbsp; Internal Pull Force" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef2f2;strokeColor=#fecaca;align=left;fontFamily=Times New Roman;fontSize=18;fontColor=#991b1b;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="767.25" y="670" width="162.5" height="147.5" as="geometry" />
+          <mxGeometry x="767.25" y="670" width="162.5" height="140" as="geometry" />
         </mxCell>
         <mxCell id="IXT24WpNEI1WU7yKb-y4-53" value="&amp;nbsp; Internal Push Force" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0fdf4;strokeColor=#bbf7d0;align=left;fontFamily=Times New Roman;fontSize=18;fontColor=#166534;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="387.5" y="640" width="162.5" height="180" as="geometry" />
