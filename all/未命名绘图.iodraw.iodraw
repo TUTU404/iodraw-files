@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IXT24WpNEI1WU7yKb-y4-85" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Acceptance Motivation&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="IXT24WpNEI1WU7yKb-y4-85" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 100%;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Perceived Content Value&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="220" y="460" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IXT24WpNEI1WU7yKb-y4-86" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Acceptance Intention &lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" vertex="1" parent="1">
