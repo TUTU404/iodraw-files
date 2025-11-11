@@ -8,7 +8,7 @@
           <mxGeometry x="40" y="190" width="420" height="450" as="geometry" />
         </mxCell>
         <mxCell id="1V-tYT3wYAZaZiexL9qx-2" value="因果条件&lt;div&gt;1.局外人的身份&lt;/div&gt;&lt;div&gt;2.信息需求&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1V-tYT3wYAZaZiexL9qx-3" value="中介条件&lt;div&gt;1.心理障碍&lt;/div&gt;&lt;div&gt;2.技术条件，AI的高效率&amp;amp;&amp;amp;社交回避&lt;/div&gt;&lt;div&gt;3.领导&amp;amp;&amp;amp;企业可以为实习生做缓冲&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="300" width="120" height="100" as="geometry" />
@@ -27,6 +27,12 @@
         </mxCell>
         <mxCell id="1V-tYT3wYAZaZiexL9qx-9" value="策略三：混合HHC与HMC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1V-tYT3wYAZaZiexL9qx-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="1V-tYT3wYAZaZiexL9qx-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="350" as="sourcePoint" />
+            <mxPoint x="150" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
