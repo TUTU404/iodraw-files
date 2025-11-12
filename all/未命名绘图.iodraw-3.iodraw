@@ -31,26 +31,8 @@
         <mxCell id="rlXRYQ6Y-I-F5nRHlrBM-9" value="m2a-&amp;gt;m2b-&amp;gt;m3c" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="270" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rlXRYQ6Y-I-F5nRHlrBM-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="rlXRYQ6Y-I-F5nRHlrBM-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="250" as="sourcePoint" />
-            <mxPoint x="410" y="200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rlXRYQ6Y-I-F5nRHlrBM-12" value="X 前因 心理契约" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="162.5" y="170" width="105" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="rlXRYQ6Y-I-F5nRHlrBM-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rlXRYQ6Y-I-F5nRHlrBM-2" target="rlXRYQ6Y-I-F5nRHlrBM-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="400" as="sourcePoint" />
-            <mxPoint x="410" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rlXRYQ6Y-I-F5nRHlrBM-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.004;exitY=0.384;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rlXRYQ6Y-I-F5nRHlrBM-2" target="rlXRYQ6Y-I-F5nRHlrBM-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="250" as="sourcePoint" />
-            <mxPoint x="390" y="390" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="rlXRYQ6Y-I-F5nRHlrBM-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rlXRYQ6Y-I-F5nRHlrBM-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -83,7 +65,7 @@
           <mxGeometry x="670" y="280" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rlXRYQ6Y-I-F5nRHlrBM-23" value="M 中介" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="70" width="105" height="30" as="geometry" />
+          <mxGeometry x="437.5" y="80" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
