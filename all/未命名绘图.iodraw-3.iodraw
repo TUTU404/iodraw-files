@@ -76,7 +76,7 @@
         <mxCell id="rlXRYQ6Y-I-F5nRHlrBM-20" value="Y1a技术互动亲和力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="350" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rlXRYQ6Y-I-F5nRHlrBM-21" value="Y2b TAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rlXRYQ6Y-I-F5nRHlrBM-21" value="Y2b 感知有用性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="430" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
