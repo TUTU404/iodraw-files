@@ -73,7 +73,7 @@
         <mxCell id="rlXRYQ6Y-I-F5nRHlrBM-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="160" width="250" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="rlXRYQ6Y-I-F5nRHlrBM-19" value="&lt;span style=&quot;color: rgb(27, 28, 29); font-family: &amp;quot;Google Sans&amp;quot;, sans-serif; white-space-collapse: preserve;&quot;&gt;Y 人机交互倾向&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rlXRYQ6Y-I-F5nRHlrBM-19" value="&lt;span style=&quot;color: rgb(27, 28, 29); font-family: &amp;quot;Google Sans&amp;quot;, sans-serif; white-space-collapse: preserve;&quot;&gt;Y 结果 人机交互倾向&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="160" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rlXRYQ6Y-I-F5nRHlrBM-20" value="Y1a技术互动亲和力（Affinity for Technology Interaction，ATI)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
