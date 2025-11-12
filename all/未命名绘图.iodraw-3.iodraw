@@ -82,6 +82,9 @@
         <mxCell id="rlXRYQ6Y-I-F5nRHlrBM-21" value="Y2b 感知有用性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="280" width="230" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rlXRYQ6Y-I-F5nRHlrBM-23" value="M 中介" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
