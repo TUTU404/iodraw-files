@@ -10,14 +10,11 @@
         <mxCell id="rlXRYQ6Y-I-F5nRHlrBM-1" value="心理契约-期望" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rlXRYQ6Y-I-F5nRHlrBM-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rlXRYQ6Y-I-F5nRHlrBM-2" target="rlXRYQ6Y-I-F5nRHlrBM-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="rlXRYQ6Y-I-F5nRHlrBM-2" value="PCB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rlXRYQ6Y-I-F5nRHlrBM-4" value="PCB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
