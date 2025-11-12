@@ -74,10 +74,10 @@
           <mxGeometry x="660" y="160" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rlXRYQ6Y-I-F5nRHlrBM-20" value="Y1a技术互动亲和力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="210" width="110" height="35" as="geometry" />
+          <mxGeometry x="670" y="210" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rlXRYQ6Y-I-F5nRHlrBM-21" value="Y2b 感知有用性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="430" width="120" height="30" as="geometry" />
+          <mxGeometry x="670" y="280" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
