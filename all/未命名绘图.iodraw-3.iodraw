@@ -16,6 +16,9 @@
         <mxCell id="rlXRYQ6Y-I-F5nRHlrBM-4" value="M1,信息搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rlXRYQ6Y-I-F5nRHlrBM-6" value="M2，组织关系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
