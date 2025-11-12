@@ -68,7 +68,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rlXRYQ6Y-I-F5nRHlrBM-18" value="&lt;span id=&quot;docs-internal-guid-77e41a8b-7fff-4c8e-8fca-bcfc35f27aec&quot;&gt;&lt;span style=&quot;font-size: 14pt; font-family: &amp;quot;Google Sans&amp;quot;, sans-serif; color: rgb(27, 28, 29); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;人机交互倾向&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="110" width="120" height="50" as="geometry" />
+          <mxGeometry x="660" y="210" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
