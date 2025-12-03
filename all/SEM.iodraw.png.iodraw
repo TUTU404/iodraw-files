@@ -4,6 +4,69 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nEq1HgURaLOMVzHHTSbr-1" value="&lt;p style=&quot;line-height: 100%;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font&gt;Perceived Content Value&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontFamily=calibri;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dcalibri;" vertex="1" parent="1">
+          <mxGeometry x="230" y="270" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nEq1HgURaLOMVzHHTSbr-2" value="&lt;p style=&quot;line-height: 100%;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font&gt;Behavioral Intention to Engage&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontFamily=calibri;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dcalibri;" vertex="1" parent="1">
+          <mxGeometry x="550" y="320" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nEq1HgURaLOMVzHHTSbr-3" value="&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font&gt;Perceived Information Quality&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontFamily=calibri;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dcalibri;" vertex="1" parent="1">
+          <mxGeometry x="390" y="390" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nEq1HgURaLOMVzHHTSbr-4" value="&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font&gt;Subjective Norms&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontFamily=calibri;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dcalibri;" vertex="1" parent="1">
+          <mxGeometry x="470" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nEq1HgURaLOMVzHHTSbr-5" value="&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font&gt;Attitude Toward Acceptance&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontFamily=calibri;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dcalibri;" vertex="1" parent="1">
+          <mxGeometry x="390" y="320" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nEq1HgURaLOMVzHHTSbr-6" value="&lt;p style=&quot;line-height: 100%;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font&gt;Intercultural Sensitivity&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontFamily=calibri;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dcalibri;" vertex="1" parent="1">
+          <mxGeometry x="230" y="370" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nEq1HgURaLOMVzHHTSbr-7" value="&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Cross-Cultural Communication Self-Efficacy&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontFamily=calibri;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dcalibri;" vertex="1" parent="1">
+          <mxGeometry x="550" y="380" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nEq1HgURaLOMVzHHTSbr-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontFamily=calibri;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dcalibri;" edge="1" parent="1" source="nEq1HgURaLOMVzHHTSbr-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="283" as="sourcePoint" />
+            <mxPoint x="390" y="333" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nEq1HgURaLOMVzHHTSbr-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=14;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=calibri;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dcalibri;" edge="1" parent="1" source="nEq1HgURaLOMVzHHTSbr-7" target="nEq1HgURaLOMVzHHTSbr-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="295" as="sourcePoint" />
+            <mxPoint x="390" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nEq1HgURaLOMVzHHTSbr-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontFamily=calibri;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dcalibri;" edge="1" parent="1" source="nEq1HgURaLOMVzHHTSbr-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="387" as="sourcePoint" />
+            <mxPoint x="390" y="337" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nEq1HgURaLOMVzHHTSbr-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;fontFamily=calibri;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dcalibri;" edge="1" parent="1" source="nEq1HgURaLOMVzHHTSbr-3" target="nEq1HgURaLOMVzHHTSbr-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="345" as="sourcePoint" />
+            <mxPoint x="400" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nEq1HgURaLOMVzHHTSbr-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontFamily=calibri;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dcalibri;" edge="1" parent="1" source="nEq1HgURaLOMVzHHTSbr-4" target="nEq1HgURaLOMVzHHTSbr-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="380" as="sourcePoint" />
+            <mxPoint x="460" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nEq1HgURaLOMVzHHTSbr-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontFamily=calibri;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dcalibri;" edge="1" parent="1" source="nEq1HgURaLOMVzHHTSbr-4" target="nEq1HgURaLOMVzHHTSbr-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="310" as="sourcePoint" />
+            <mxPoint x="460" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nEq1HgURaLOMVzHHTSbr-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.019;entryY=0.487;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;fontFamily=calibri;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dcalibri;" edge="1" parent="1" source="nEq1HgURaLOMVzHHTSbr-5" target="nEq1HgURaLOMVzHHTSbr-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="320" as="sourcePoint" />
+            <mxPoint x="470" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
