@@ -298,10 +298,10 @@
         <mxCell id="Q2B5vrRv8bb9VDxFJibc-66" value="&lt;font face=&quot;Times New Roman&quot;&gt;DJ3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="350" y="318" width="46" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="Q2B5vrRv8bb9VDxFJibc-67" value="&lt;font face=&quot;Times New Roman&quot;&gt;DJ2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+        <mxCell id="Q2B5vrRv8bb9VDxFJibc-67" value="&lt;font face=&quot;Helvetica&quot;&gt;DJ2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="350" y="294" width="46" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="Q2B5vrRv8bb9VDxFJibc-68" value="&lt;font face=&quot;Times New Roman&quot;&gt;DJ1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+        <mxCell id="Q2B5vrRv8bb9VDxFJibc-68" value="&lt;font face=&quot;Helvetica&quot;&gt;DJ1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="350" y="270" width="46" height="19" as="geometry" />
         </mxCell>
         <mxCell id="Q2B5vrRv8bb9VDxFJibc-69" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Q2B5vrRv8bb9VDxFJibc-31" target="Q2B5vrRv8bb9VDxFJibc-68" edge="1">
