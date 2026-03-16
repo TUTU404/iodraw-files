@@ -34,7 +34,7 @@
         <mxCell id="zOraKzA2HfVQIGiGUMC_-8" value="接受态度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zOraKzA2HfVQIGiGUMC_-10" value="接受态度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zOraKzA2HfVQIGiGUMC_-10" value="互动意愿" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
