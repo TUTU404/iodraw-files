@@ -10,14 +10,26 @@
         <mxCell id="zOraKzA2HfVQIGiGUMC_-1" value="感知信息质量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="110" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zOraKzA2HfVQIGiGUMC_-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zOraKzA2HfVQIGiGUMC_-2" target="zOraKzA2HfVQIGiGUMC_-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zOraKzA2HfVQIGiGUMC_-2" value="感知内容价值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zOraKzA2HfVQIGiGUMC_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zOraKzA2HfVQIGiGUMC_-4" target="zOraKzA2HfVQIGiGUMC_-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zOraKzA2HfVQIGiGUMC_-4" value="跨文化敏感度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="50" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zOraKzA2HfVQIGiGUMC_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zOraKzA2HfVQIGiGUMC_-5" target="zOraKzA2HfVQIGiGUMC_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zOraKzA2HfVQIGiGUMC_-5" value="主观规范" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zOraKzA2HfVQIGiGUMC_-8" value="感知内容价值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
