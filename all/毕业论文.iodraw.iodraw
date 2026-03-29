@@ -31,15 +31,6 @@
         <mxCell id="1gBji8oc1pyeL818XcmT-10" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Dominant Path&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="431" y="266" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1gBji8oc1pyeL818XcmT-13" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.702;exitY=0.798;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1gBji8oc1pyeL818XcmT-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="380" as="sourcePoint" />
-            <mxPoint x="520" y="400" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="470" y="390" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1gBji8oc1pyeL818XcmT-14" value="Minorty Attemoters&lt;div&gt;(Path2)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="386" y="401" width="160" height="30" as="geometry" />
         </mxCell>
@@ -97,6 +88,16 @@
             <Array as="points">
               <mxPoint x="460" y="300" />
               <mxPoint x="470" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1gBji8oc1pyeL818XcmT-34" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="463" y="295" as="sourcePoint" />
+            <mxPoint x="531" y="326" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="311" />
+              <mxPoint x="480" y="321" />
             </Array>
           </mxGeometry>
         </mxCell>
