@@ -26,7 +26,7 @@
           <mxGeometry x="208" y="305" width="136" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1gBji8oc1pyeL818XcmT-7" value="Cognitive Processing Bifurcation Point" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="290" width="90" height="95" as="geometry" />
+          <mxGeometry x="370" y="288" width="110" height="113" as="geometry" />
         </mxCell>
         <mxCell id="1gBji8oc1pyeL818XcmT-10" value="Dominant Path" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="267" width="90" height="30" as="geometry" />
