@@ -134,6 +134,9 @@
         <mxCell id="R7-ak71K5FI_9fdO8BeW-39" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Dissolve Cognitive Load&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="529" y="762" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="R7-ak71K5FI_9fdO8BeW-40" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="754" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
