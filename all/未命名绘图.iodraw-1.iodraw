@@ -140,6 +140,9 @@
         <mxCell id="R7-ak71K5FI_9fdO8BeW-40" value="Instant&lt;div&gt;Certainty&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF3333;strokeColor=none;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="710" y="759.5" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="R7-ak71K5FI_9fdO8BeW-43" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="759.5" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
