@@ -101,13 +101,16 @@
           <mxGeometry x="322.75" y="782.25" width="65.5" height="34.5" as="geometry" />
         </mxCell>
         <mxCell id="R7-ak71K5FI_9fdO8BeW-29" value="Prompting" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="325.5" y="784.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="328.25" y="890" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R7-ak71K5FI_9fdO8BeW-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.027;exitY=0.502;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="R7-ak71K5FI_9fdO8BeW-31">
+        <mxCell id="R7-ak71K5FI_9fdO8BeW-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.027;exitY=0.502;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R7-ak71K5FI_9fdO8BeW-31" target="R7-ak71K5FI_9fdO8BeW-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="820" as="sourcePoint" />
             <mxPoint x="390" y="940" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="R7-ak71K5FI_9fdO8BeW-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="770" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
