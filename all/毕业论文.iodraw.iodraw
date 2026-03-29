@@ -20,7 +20,7 @@
           <mxGeometry x="380" y="305" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1gBji8oc1pyeL818XcmT-10" value="Dominant Path" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="260" width="90" height="30" as="geometry" />
+          <mxGeometry x="420" y="267" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1gBji8oc1pyeL818XcmT-11" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1gBji8oc1pyeL818XcmT-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -44,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1gBji8oc1pyeL818XcmT-14" value="Minorty Attemoters&lt;div&gt;(Path2)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="395" y="401" width="160" height="30" as="geometry" />
+          <mxGeometry x="386" y="401" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
