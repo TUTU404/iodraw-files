@@ -10,7 +10,7 @@
         <mxCell id="R7-ak71K5FI_9fdO8BeW-27" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Arial;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArial;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="630" y="450" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="rzjdnEMyjPOutqHc51G6-10" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Start:&lt;/font&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Congnitive&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Uncertainty&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#21918C;opacity=40;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArial;" vertex="1" parent="1">
+        <mxCell id="rzjdnEMyjPOutqHc51G6-10" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Start:&lt;/font&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Congnitive&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Uncertainty&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#21918C;opacity=40;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArial;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="156" y="648" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rzjdnEMyjPOutqHc51G6-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArial;fillColor=#1F4E79;opacity=25;" vertex="1" parent="1">
@@ -175,7 +175,7 @@
           <mxGeometry x="920" y="900" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="R7-ak71K5FI_9fdO8BeW-60" value="Path to LOOP A Frictionless / Low Alertness(Default)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArial;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="920" y="839" width="100" height="30" as="geometry" />
+          <mxGeometry x="916" y="839" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R7-ak71K5FI_9fdO8BeW-61" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=1;fillColor=#f8cecc;strokeColor=#FF0000;strokeWidth=3;opacity=40;" edge="1" parent="1" target="R7-ak71K5FI_9fdO8BeW-58">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
