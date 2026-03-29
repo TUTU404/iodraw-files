@@ -168,8 +168,8 @@
             <mxPoint x="1110" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R7-ak71K5FI_9fdO8BeW-56" value="Forces Attention Switch to Verification" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="649" y="656" width="205" height="30" as="geometry" />
+        <mxCell id="R7-ak71K5FI_9fdO8BeW-56" value="Forces Attention Switch to Verification" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArial;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="631" y="655" width="205" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
