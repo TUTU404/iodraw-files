@@ -122,8 +122,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="R7-ak71K5FI_9fdO8BeW-36" value="Generative Sen" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="990" width="280" height="30" as="geometry" />
+        <mxCell id="R7-ak71K5FI_9fdO8BeW-36" value="Generative Sensemaking Model(GSM): Algorithmic Swallowing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="990" width="420" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
