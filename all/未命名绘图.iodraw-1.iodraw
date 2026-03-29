@@ -60,7 +60,7 @@
             <mxPoint x="400" y="720" as="sourcePoint" />
             <mxPoint x="450" y="670" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="450" y="510" />
+              <mxPoint x="450" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R7-ak71K5FI_9fdO8BeW-11" value="&lt;font style=&quot;font-size: 8px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot;&gt;Not Verified/Revise&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="414" y="533.5" width="80" height="9" as="geometry" />
+          <mxGeometry x="400" y="529.5" width="80" height="9" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
