@@ -168,6 +168,9 @@
             <mxPoint x="1110" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="R7-ak71K5FI_9fdO8BeW-56" value="Forces Attention Switch to Verification" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="655" y="644" width="205" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
