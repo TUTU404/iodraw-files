@@ -109,8 +109,13 @@
             <mxPoint x="390" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R7-ak71K5FI_9fdO8BeW-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="R7-ak71K5FI_9fdO8BeW-33" target="R7-ak71K5FI_9fdO8BeW-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="R7-ak71K5FI_9fdO8BeW-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;dashed=1;" edge="1" parent="1" source="R7-ak71K5FI_9fdO8BeW-33" target="R7-ak71K5FI_9fdO8BeW-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="685" />
+              <mxPoint x="392" y="685" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="R7-ak71K5FI_9fdO8BeW-33" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;AI Black Box Generation High Cognitive Fluence + Bibliographic Venner&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="414" y="770" width="116" height="60" as="geometry" />
