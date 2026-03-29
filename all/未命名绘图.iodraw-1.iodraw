@@ -46,7 +46,7 @@
         <mxCell id="R7-ak71K5FI_9fdO8BeW-2" value="&lt;font face=&quot;Arial&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; style=&quot;font-size: 8px;&quot;&gt;Path 2:&lt;/font&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font face=&quot;Arial&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; style=&quot;font-size: 8px;&quot;&gt;Geneative Dialogue&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="230" y="799" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R7-ak71K5FI_9fdO8BeW-3" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Traditional Retrieval Paradigm: Constructive Friction&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArial;" vertex="1" parent="1">
+        <mxCell id="R7-ak71K5FI_9fdO8BeW-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Traditional Retrieval Paradigm: Constructive Friction&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArial;" vertex="1" parent="1">
           <mxGeometry x="320" y="444" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R7-ak71K5FI_9fdO8BeW-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R7-ak71K5FI_9fdO8BeW-4" target="R7-ak71K5FI_9fdO8BeW-5">
@@ -163,6 +163,12 @@
         </mxCell>
         <mxCell id="R7-ak71K5FI_9fdO8BeW-51" value="Central Route Processing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;fontSize=11;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArial;" vertex="1" parent="1">
           <mxGeometry x="930" y="900" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R7-ak71K5FI_9fdO8BeW-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="R7-ak71K5FI_9fdO8BeW-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1060" y="830" as="sourcePoint" />
+            <mxPoint x="1110" y="780" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
