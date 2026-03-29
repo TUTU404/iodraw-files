@@ -97,7 +97,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="R7-ak71K5FI_9fdO8BeW-31" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#fff2cc;opacity=60;" vertex="1" parent="1">
+        <mxCell id="R7-ak71K5FI_9fdO8BeW-31" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="322.75" y="782.25" width="65.5" height="34.5" as="geometry" />
         </mxCell>
         <mxCell id="R7-ak71K5FI_9fdO8BeW-29" value="Prompting" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
