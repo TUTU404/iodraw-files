@@ -178,10 +178,10 @@
           <mxGeometry x="899" y="722.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R7-ak71K5FI_9fdO8BeW-58" value="Direct Adoption / One-Shot Swallowing" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Arial;fillColor=#f8cecc;strokeColor=none;opacity=70;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArial;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="775" width="110" height="50" as="geometry" />
+          <mxGeometry x="1020" y="775" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="R7-ak71K5FI_9fdO8BeW-60" value="Path to LOOP A Frictionless / Low Alertness(Default)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArial;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="910" y="809.5" width="121" height="30" as="geometry" />
+          <mxGeometry x="930" y="805" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
