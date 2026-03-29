@@ -41,7 +41,7 @@
           <mxGeometry x="230" y="510" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R7-ak71K5FI_9fdO8BeW-2" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot;&gt;Path 1:&lt;/font&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot; face=&quot;Arial&quot;&gt;Traditional Retrieval&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="520" width="60" height="30" as="geometry" />
+          <mxGeometry x="230" y="790" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
