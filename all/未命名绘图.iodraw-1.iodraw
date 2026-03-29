@@ -46,7 +46,7 @@
         <mxCell id="R7-ak71K5FI_9fdO8BeW-3" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Arial&quot;&gt;Traditional Retrieval Paradigm: Constructive Friction&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="390" y="439" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R7-ak71K5FI_9fdO8BeW-4" value="&lt;font face=&quot;Arial&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot;&gt;Berrypicking Search&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#001DBC;fillColor=#0050ef;opacity=60;fontColor=#000000;gradientColor=default;" vertex="1" parent="1">
+        <mxCell id="R7-ak71K5FI_9fdO8BeW-4" value="&lt;font face=&quot;Arial&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Arial&quot;&gt;Berrypicking Search&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#001DBC;fillColor=#41A5FF;opacity=60;fontColor=#000000;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="331.95" y="469" width="120" height="31" as="geometry" />
         </mxCell>
       </root>
