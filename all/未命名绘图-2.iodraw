@@ -20,13 +20,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zOraKzA2HfVQIGiGUMC_-8" value="接受态度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=17;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zOraKzA2HfVQIGiGUMC_-10" value="互动意愿" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=17;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zOraKzA2HfVQIGiGUMC_-17" value="&lt;span style=&quot;font-size: 17px; font-weight: normal;&quot; data-index-in-node=&quot;0&quot; data-path-to-node=&quot;4,5,0&quot;&gt;跨文化沟通自我效能感&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=17;fontStyle=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="780" y="-310" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m5E2tJCyI-IEUAFJei9C-1" value="跨文化敏感度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=17;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="50" width="120" height="60" as="geometry" />
