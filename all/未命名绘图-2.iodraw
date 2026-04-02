@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zOraKzA2HfVQIGiGUMC_-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;fontFamily=宋体;" parent="1" source="zOraKzA2HfVQIGiGUMC_-1" target="zOraKzA2HfVQIGiGUMC_-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="zOraKzA2HfVQIGiGUMC_-1" value="感知信息质量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=17;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="110" y="6" width="120" height="60" as="geometry" />
         </mxCell>
@@ -17,7 +14,7 @@
           <mxGeometry x="460" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zOraKzA2HfVQIGiGUMC_-5" value="主观规范" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=17;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="270" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zOraKzA2HfVQIGiGUMC_-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;fontFamily=宋体;" parent="1" source="zOraKzA2HfVQIGiGUMC_-8" target="zOraKzA2HfVQIGiGUMC_-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -31,23 +28,14 @@
         <mxCell id="zOraKzA2HfVQIGiGUMC_-17" value="&lt;span style=&quot;font-size: 17px; font-weight: normal;&quot; data-index-in-node=&quot;0&quot; data-path-to-node=&quot;4,5,0&quot;&gt;跨文化沟通自我效能感&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=17;fontStyle=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="710" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FkPA3XFgNZC1FhJtILMX-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;fontFamily=宋体;" edge="1" parent="1" source="zOraKzA2HfVQIGiGUMC_-5" target="zOraKzA2HfVQIGiGUMC_-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="115" as="sourcePoint" />
-            <mxPoint x="690" y="65" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FkPA3XFgNZC1FhJtILMX-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;fontFamily=宋体;" edge="1" parent="1" source="zOraKzA2HfVQIGiGUMC_-17" target="zOraKzA2HfVQIGiGUMC_-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="256" as="sourcePoint" />
             <mxPoint x="440" y="206" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FkPA3XFgNZC1FhJtILMX-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;跨文化敏感度&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=default;strokeColor=#666666;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="380" y="170" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="FkPA3XFgNZC1FhJtILMX-7" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;跨文化敏感度&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="490" y="-210" width="80" height="80" as="geometry" />
+          <mxGeometry x="334" y="36" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
