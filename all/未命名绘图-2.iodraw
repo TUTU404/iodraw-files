@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zOraKzA2HfVQIGiGUMC_-1" value="感知信息质量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=17;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="294" y="-85" width="120" height="60" as="geometry" />
+          <mxGeometry x="256" y="-85" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zOraKzA2HfVQIGiGUMC_-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;fontFamily=宋体;" parent="1" source="zOraKzA2HfVQIGiGUMC_-2" target="zOraKzA2HfVQIGiGUMC_-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry x="490" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zOraKzA2HfVQIGiGUMC_-5" value="主观规范" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=17;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="294" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="256" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zOraKzA2HfVQIGiGUMC_-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;fontFamily=宋体;" parent="1" source="zOraKzA2HfVQIGiGUMC_-8" target="zOraKzA2HfVQIGiGUMC_-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
