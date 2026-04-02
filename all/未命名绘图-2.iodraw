@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zOraKzA2HfVQIGiGUMC_-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;fontFamily=宋体;" parent="1" source="zOraKzA2HfVQIGiGUMC_-1" target="zOraKzA2HfVQIGiGUMC_-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="zOraKzA2HfVQIGiGUMC_-1" value="感知信息质量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=17;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="110" y="6" width="120" height="60" as="geometry" />
         </mxCell>
@@ -43,7 +40,7 @@
         <mxCell id="FkPA3XFgNZC1FhJtILMX-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zOraKzA2HfVQIGiGUMC_-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="150" as="sourcePoint" />
-            <mxPoint x="440" y="100" as="targetPoint" />
+            <mxPoint x="340" y="126" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
