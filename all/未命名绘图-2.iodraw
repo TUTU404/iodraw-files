@@ -29,7 +29,7 @@
           <mxGeometry x="750" y="-100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m5E2tJCyI-IEUAFJei9C-1" value="跨文化敏感度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=17;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="59" y="-11" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FkPA3XFgNZC1FhJtILMX-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;fontFamily=宋体;" edge="1" parent="1" source="zOraKzA2HfVQIGiGUMC_-17" target="zOraKzA2HfVQIGiGUMC_-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
