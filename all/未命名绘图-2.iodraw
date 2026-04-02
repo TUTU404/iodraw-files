@@ -86,13 +86,13 @@
           <mxGeometry x="213" y="-110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FkPA3XFgNZC1FhJtILMX-159" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="223" y="-100" width="60" height="30" as="geometry" />
+          <mxGeometry x="314" y="-110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FkPA3XFgNZC1FhJtILMX-160" value="0.188" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="173" y="53" width="60" height="30" as="geometry" />
+          <mxGeometry x="166" y="48" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FkPA3XFgNZC1FhJtILMX-161" value="0.215" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="123" y="-78" width="60" height="30" as="geometry" />
+          <mxGeometry x="165" y="-31" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
