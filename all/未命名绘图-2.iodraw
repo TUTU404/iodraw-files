@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zOraKzA2HfVQIGiGUMC_-2" value="感知内容价值" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=17;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="490" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zOraKzA2HfVQIGiGUMC_-5" value="主观规范" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=17;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="256" y="70" width="120" height="60" as="geometry" />
