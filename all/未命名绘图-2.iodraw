@@ -82,11 +82,11 @@
         <mxCell id="FkPA3XFgNZC1FhJtILMX-157" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="203" y="-120" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FkPA3XFgNZC1FhJtILMX-158" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FkPA3XFgNZC1FhJtILMX-158" value="0.315" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="383" y="78" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FkPA3XFgNZC1FhJtILMX-159" value="0.421" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="314" y="-110" width="60" height="30" as="geometry" />
+          <mxGeometry x="330" y="-28" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FkPA3XFgNZC1FhJtILMX-160" value="0.188" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="166" y="48" width="60" height="30" as="geometry" />
