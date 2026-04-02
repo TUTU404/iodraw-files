@@ -4,13 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zOraKzA2HfVQIGiGUMC_-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;fontFamily=宋体;" parent="1" target="zOraKzA2HfVQIGiGUMC_-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="710" y="20" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="zOraKzA2HfVQIGiGUMC_-10" value="互动意愿" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=17;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="750" y="-10" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="-7" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zOraKzA2HfVQIGiGUMC_-17" value="&lt;span style=&quot;font-size: 17px; font-weight: normal;&quot; data-index-in-node=&quot;0&quot; data-path-to-node=&quot;4,5,0&quot;&gt;跨文化沟通自我效能感&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=17;fontStyle=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="750" y="-100" width="120" height="60" as="geometry" />
