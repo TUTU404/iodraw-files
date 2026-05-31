@@ -94,14 +94,11 @@
         <mxCell id="QyejNqent71gZMtM4RsQ-36" value="核心单智能体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="664" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-37" value="智能体交互结构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="664" y="950" width="120" height="60" as="geometry" />
+        <mxCell id="QyejNqent71gZMtM4RsQ-37" value="多智能体交互结构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="667" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-38" value="局部认知扩散" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="664" y="863" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-39" value="集体认知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="667" y="930" width="120" height="60" as="geometry" />
+          <mxGeometry x="664" y="775" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
