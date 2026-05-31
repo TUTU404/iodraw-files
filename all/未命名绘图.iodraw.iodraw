@@ -32,16 +32,16 @@
           <mxGeometry x="195" y="347" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-10" value="交互知识" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="390" y="347" width="80" height="30" as="geometry" />
+          <mxGeometry x="384" y="347" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-11" value="工具知识" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="466" y="347" width="80" height="30" as="geometry" />
+          <mxGeometry x="484" y="347" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-12" value="推理知识" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="290" y="347" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-13" value="确证知识" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="544" y="347" width="80" height="30" as="geometry" />
+          <mxGeometry x="580" y="347" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-14" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="100" y="517.5" width="120" height="170" as="geometry" />
