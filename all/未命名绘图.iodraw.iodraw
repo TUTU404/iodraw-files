@@ -143,8 +143,8 @@
             <mxPoint x="406" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-65" value="确证溯源" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="574" y="613" width="120" height="40" as="geometry" />
+        <mxCell id="QyejNqent71gZMtM4RsQ-65" value="知识可信确证与溯源" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="574" y="613" width="146" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
