@@ -10,11 +10,10 @@
         <mxCell id="QyejNqent71gZMtM4RsQ-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;面向&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;AI4S&lt;/font&gt;&lt;/b&gt;&lt;b&gt;中&lt;/b&gt;&lt;b&gt;多智能体协同&lt;/b&gt;&lt;b&gt;网络的&lt;/b&gt;&lt;b&gt;知识&lt;/b&gt;&lt;b&gt;组织范式研究内容框架&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="235.5" y="200" width="342" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QyejNqent71gZMtM4RsQ-2" target="QyejNqent71gZMtM4RsQ-32">
+        <mxCell id="QyejNqent71gZMtM4RsQ-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.571;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QyejNqent71gZMtM4RsQ-2" target="QyejNqent71gZMtM4RsQ-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="406" y="400" />
-              <mxPoint x="454" y="400" />
+              <mxPoint x="406" y="427" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -118,12 +117,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="730" as="sourcePoint" />
             <mxPoint x="330" y="750" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-57" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="456" y="465.5" as="sourcePoint" />
-            <mxPoint x="456.24" y="494" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-58" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.518;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="QyejNqent71gZMtM4RsQ-35">
