@@ -148,7 +148,7 @@
             <mxPoint x="406" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-65" value="知识可信确证与溯源" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="QyejNqent71gZMtM4RsQ-65" value="知识溯源" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="561" y="613" width="146" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-69" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=81.70212765957446;endSize=7.706382978723404;width=43.40425531914894;fillColor=#bac8d3;strokeColor=#23445d;fontStyle=1" parent="1" edge="1">
@@ -159,6 +159,9 @@
         </mxCell>
         <mxCell id="a0nIWO9_iK1u2yOhn48S-2" value="&#xa;可信度评估&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a0nIWO9_iK1u2yOhn48S-3" value="知识可信确证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
