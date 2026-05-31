@@ -82,7 +82,7 @@
         <mxCell id="QyejNqent71gZMtM4RsQ-32" value="共识构建网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="466" y="510" width="120" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="QyejNqent71gZMtM4RsQ-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.389;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.39;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QyejNqent71gZMtM4RsQ-31" target="QyejNqent71gZMtM4RsQ-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="620" as="sourcePoint" />
             <mxPoint x="500" y="570" as="targetPoint" />
