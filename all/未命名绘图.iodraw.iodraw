@@ -79,7 +79,7 @@
         <mxCell id="QyejNqent71gZMtM4RsQ-31" value="共识构建机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="510" width="120" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-32" value="共识构建机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QyejNqent71gZMtM4RsQ-32" value="信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="466" y="510" width="120" height="33" as="geometry" />
         </mxCell>
       </root>
