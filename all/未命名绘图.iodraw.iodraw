@@ -7,10 +7,10 @@
         <mxCell id="QyejNqent71gZMtM4RsQ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QyejNqent71gZMtM4RsQ-1" target="QyejNqent71gZMtM4RsQ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-1" value="研究内容框架" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="QyejNqent71gZMtM4RsQ-1" value="&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;面向&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;AI4S&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14pt;&quot;&gt;中&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14pt;&quot;&gt;多智能体协同&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14pt;&quot;&gt;网络的&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14pt;&quot;&gt;知识&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14pt;&quot;&gt;组织范式&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="180" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-2" value="研究数据" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="QyejNqent71gZMtM4RsQ-2" value="研究对象" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-4" value="研究数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
