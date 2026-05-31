@@ -83,7 +83,7 @@
         <mxCell id="QyejNqent71gZMtM4RsQ-26" value="协同推理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="291" y="559.5" width="64" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-27" value="信息传播与扩散" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="QyejNqent71gZMtM4RsQ-27" value="知识传播" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="218" y="614" width="64" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-28" value="共识形成" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=1" parent="1" vertex="1">
@@ -104,7 +104,7 @@
         <mxCell id="QyejNqent71gZMtM4RsQ-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;dashed=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="376" y="554" width="155" height="106" as="geometry" />
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-36" value="核心单智能体" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="QyejNqent71gZMtM4RsQ-36" value="中心化结构" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="384" y="561.5" width="66" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-37" value="多智能体交互结构" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=1" parent="1" vertex="1">
