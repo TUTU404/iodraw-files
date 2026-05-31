@@ -65,13 +65,13 @@
           <mxGeometry x="550" y="609" width="104" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-26" value="协同推理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="550" y="690" width="104" height="40" as="geometry" />
+          <mxGeometry x="550" y="664" width="104" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-27" value="信息传播与扩散" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="550" y="770" width="104" height="40" as="geometry" />
+          <mxGeometry x="550" y="719" width="104" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-28" value="共识形成" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="550" y="850" width="104" height="40" as="geometry" />
+          <mxGeometry x="550" y="770" width="104" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
