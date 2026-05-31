@@ -47,13 +47,13 @@
           <mxGeometry x="171" y="570" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-17" value="知识图谱" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="436" y="610" width="104" height="60" as="geometry" />
+          <mxGeometry x="436" y="610" width="104" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-18" value="本体构建" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="450" y="524.5" width="104" height="60" as="geometry" />
+          <mxGeometry x="436" y="550" width="104" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-19" value="语义网络" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="440" y="740" width="104" height="40" as="geometry" />
+          <mxGeometry x="436" y="670" width="104" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
