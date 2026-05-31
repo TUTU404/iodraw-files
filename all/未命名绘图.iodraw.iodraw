@@ -97,12 +97,6 @@
         <mxCell id="QyejNqent71gZMtM4RsQ-40" value="共识形成" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="456" y="595" width="66" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QyejNqent71gZMtM4RsQ-32" target="QyejNqent71gZMtM4RsQ-35">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="758" y="655.5" as="sourcePoint" />
-            <mxPoint x="808" y="605.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-51" value="&lt;span style=&quot;font-family: 宋体; font-size: 14px;&quot;&gt;研究对象&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="87" y="346" width="60" height="30" as="geometry" />
         </mxCell>
@@ -122,6 +116,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="456" y="447.5" as="sourcePoint" />
             <mxPoint x="456.24" y="476" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QyejNqent71gZMtM4RsQ-58" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="465" y="457.5" as="sourcePoint" />
+            <mxPoint x="465.24" y="486" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
