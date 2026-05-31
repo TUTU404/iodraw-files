@@ -58,8 +58,14 @@
         <mxCell id="QyejNqent71gZMtM4RsQ-19" value="语义网络" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="179" y="679" width="104" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-23" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;分布式认知网络共识建构机理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="330" y="570" width="200" height="40" as="geometry" />
+        <mxCell id="QyejNqent71gZMtM4RsQ-23" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;分布式认知网络共识建构机理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="570" width="200" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="QyejNqent71gZMtM4RsQ-25" value="角色特化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="609" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QyejNqent71gZMtM4RsQ-26" value="角色特化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="619" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
