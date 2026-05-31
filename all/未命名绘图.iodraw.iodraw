@@ -67,8 +67,11 @@
         <mxCell id="QyejNqent71gZMtM4RsQ-26" value="协同推理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-27" value="协同推理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="820" width="120" height="60" as="geometry" />
+        <mxCell id="QyejNqent71gZMtM4RsQ-27" value="信息传播与扩散" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="544" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QyejNqent71gZMtM4RsQ-28" value="信息传播与扩散" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
