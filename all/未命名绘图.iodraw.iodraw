@@ -106,6 +106,12 @@
         <mxCell id="QyejNqent71gZMtM4RsQ-51" value="&lt;span style=&quot;font-family: 宋体; font-size: 14px;&quot;&gt;研究对象&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="87" y="346" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="QyejNqent71gZMtM4RsQ-55" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="530" as="sourcePoint" />
+            <mxPoint x="320" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
