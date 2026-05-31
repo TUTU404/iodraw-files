@@ -1,55 +1,55 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="OHmI_fsnWdRS3ZKoNxha">
-    <mxGraphModel dx="709" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="343" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QyejNqent71gZMtM4RsQ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QyejNqent71gZMtM4RsQ-1" target="QyejNqent71gZMtM4RsQ-2">
+        <mxCell id="QyejNqent71gZMtM4RsQ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="QyejNqent71gZMtM4RsQ-1" target="QyejNqent71gZMtM4RsQ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-1" value="&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;面向&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;AI4S&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14pt;&quot;&gt;中&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14pt;&quot;&gt;多智能体协同&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14pt;&quot;&gt;网络的&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14pt;&quot;&gt;知识&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14pt;&quot;&gt;组织范式&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QyejNqent71gZMtM4RsQ-1" value="&lt;b&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;font&gt;面向&lt;/font&gt;&lt;font&gt;AI4S&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;中&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;多智能体协同&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;网络的&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;知识&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;组织范式&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="275" y="180" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-2" value="研究对象：多智能体网络中的过程知识" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;spacingTop=-38;" vertex="1" parent="1">
+        <mxCell id="QyejNqent71gZMtM4RsQ-2" value="研究对象：多智能体网络中的过程知识" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;spacingTop=-38;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="140" y="320" width="480" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QyejNqent71gZMtM4RsQ-4" target="QyejNqent71gZMtM4RsQ-14">
+        <mxCell id="QyejNqent71gZMtM4RsQ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="QyejNqent71gZMtM4RsQ-4" target="QyejNqent71gZMtM4RsQ-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-4" value="知识组织方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QyejNqent71gZMtM4RsQ-4" value="知识组织方法" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="171" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-6" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;分布式认知网络共识建构机理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QyejNqent71gZMtM4RsQ-6" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;分布式认知网络共识建构机理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="340" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-7" value="&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;color:rgb(0,0,0);&#xa;font-weight:normal;font-size:12.0000pt;mso-font-kerning:0.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;多智能体网络知识治理机理&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QyejNqent71gZMtM4RsQ-7" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-weight: normal; font-size: 12pt;&quot;&gt;&lt;font&gt;多智能体网络知识治理机理&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="500" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-8" value="任务知识" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QyejNqent71gZMtM4RsQ-8" value="&lt;font face=&quot;宋体&quot;&gt;任务知识&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="152" y="347" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-9" value="检索知识" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QyejNqent71gZMtM4RsQ-9" value="检索知识" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="231" y="347" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-10" value="交互知识" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QyejNqent71gZMtM4RsQ-10" value="交互知识" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="390" y="347" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-11" value="工具知识" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QyejNqent71gZMtM4RsQ-11" value="工具知识" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="466" y="347" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-12" value="推理知识" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QyejNqent71gZMtM4RsQ-12" value="推理知识" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="309" y="347" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-13" value="确证知识" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QyejNqent71gZMtM4RsQ-13" value="确证知识" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="544" y="347" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-14" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="QyejNqent71gZMtM4RsQ-14" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="171" y="570" width="120" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-17" value="知识图谱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QyejNqent71gZMtM4RsQ-17" value="知识图谱" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="436" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-18" value="本体构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QyejNqent71gZMtM4RsQ-18" value="本体构建" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="436" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
