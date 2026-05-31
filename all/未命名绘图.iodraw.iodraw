@@ -10,8 +10,8 @@
         <mxCell id="QyejNqent71gZMtM4RsQ-1" value="&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;面向&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;AI4S&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14pt;&quot;&gt;中&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14pt;&quot;&gt;多智能体协同&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14pt;&quot;&gt;网络的&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14pt;&quot;&gt;知识&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14pt;&quot;&gt;组织范式&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="180" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-2" value="研究对象" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="320" width="360" height="60" as="geometry" />
+        <mxCell id="QyejNqent71gZMtM4RsQ-2" value="研究对象：多智能体网络中的过程知识" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;spacingTop=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="600" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-4" value="研究数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="430" width="120" height="60" as="geometry" />
