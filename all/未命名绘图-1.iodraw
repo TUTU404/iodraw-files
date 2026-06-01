@@ -82,7 +82,7 @@
         <mxCell id="QyejNqent71gZMtM4RsQ-25" value="语义关系组织" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="219" y="559.5" width="64" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-26" value="协同推理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="QyejNqent71gZMtM4RsQ-26" value="协同关系组织" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="291" y="559.5" width="64" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-27" value="知识传播" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=0" parent="1" vertex="1">
