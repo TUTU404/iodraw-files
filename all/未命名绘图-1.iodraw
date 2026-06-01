@@ -22,7 +22,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;科学发现中多智能体网络的过程知识&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;spacingTop=-38;fontFamily=宋体;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="QyejNqent71gZMtM4RsQ-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; 多智能体网络中的过程知识&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;spacingTop=-38;fontFamily=宋体;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="73" y="320" width="667" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;全过程知识组织模型构建&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=0" parent="1" vertex="1">
@@ -35,7 +35,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-7" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;全过程知识演化机制&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="QyejNqent71gZMtM4RsQ-7" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;多智能体网络知识治理机理&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="470" y="425.5" width="234" height="44.5" as="geometry" />
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;dashed=1;fontStyle=0" parent="1" vertex="1">
@@ -59,6 +59,9 @@
         <mxCell id="QyejNqent71gZMtM4RsQ-30" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;AI4S&lt;/font&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;中多智能体协作网络的知识组织机理以及治理策略&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="80" y="724" width="660" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="QyejNqent71gZMtM4RsQ-32" value="共识构建网络" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=宋体;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="393.5" y="493.5" width="120" height="33" as="geometry" />
+        </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;dashed=1;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="376" y="554" width="155" height="106" as="geometry" />
         </mxCell>
@@ -76,6 +79,12 @@
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-51" value="&lt;span style=&quot;font-family: 宋体; font-size: 14px;&quot;&gt;研究对象&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="87" y="346" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QyejNqent71gZMtM4RsQ-56" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.521;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=0" parent="1" target="QyejNqent71gZMtM4RsQ-32" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="456" y="465.5" as="sourcePoint" />
+            <mxPoint x="456" y="485.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-58" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.518;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=0" parent="1" target="QyejNqent71gZMtM4RsQ-35" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -119,13 +128,7 @@
           <mxGeometry x="307" y="346" width="122" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pC6kQa4-w5ho0fwOcDll-5" value="结论知识" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="610" y="346" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pC6kQa4-w5ho0fwOcDll-6" value="知识组织机制" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="480" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pC6kQa4-w5ho0fwOcDll-7" value="知识组织机制" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="50" y="464" width="97" height="40" as="geometry" />
+          <mxGeometry x="620" y="346" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
