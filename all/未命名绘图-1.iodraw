@@ -47,7 +47,7 @@
           <mxGeometry x="550" y="425.5" width="178" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-8" value="&lt;h2 data-end=&quot;701&quot; data-start=&quot;692&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;科学问题知识&lt;/font&gt;&lt;/h2&gt;&lt;p data-end=&quot;706&quot; data-start=&quot;703&quot;&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="160" y="346" width="130" height="30" as="geometry" />
+          <mxGeometry x="129" y="160" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-9" value="检索知识" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="259" y="347" width="80" height="30" as="geometry" />
@@ -164,6 +164,9 @@
         </mxCell>
         <mxCell id="a0nIWO9_iK1u2yOhn48S-3" value="知识冲突识别" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="559" y="544" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pC6kQa4-w5ho0fwOcDll-1" value="检索知识" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="348" y="130" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
