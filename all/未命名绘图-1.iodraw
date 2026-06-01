@@ -44,14 +44,11 @@
         <mxCell id="QyejNqent71gZMtM4RsQ-25" value="语义关系组织" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="118" y="549.5" width="64" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-26" value="协同推理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="QyejNqent71gZMtM4RsQ-26" value="协同关系组织" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="190" y="549.5" width="64" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-27" value="知识传播" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="QyejNqent71gZMtM4RsQ-27" value="时序关系组织" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="117" y="604" width="64" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-28" value="共识形成" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="190" y="604" width="64" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-29" value="知识溯源追踪" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="558" y="584" width="162" height="30" as="geometry" />
