@@ -171,7 +171,7 @@
         <mxCell id="pC6kQa4-w5ho0fwOcDll-4" value="科学验证知识" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="368" y="140" width="122" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pC6kQa4-w5ho0fwOcDll-5" value="推理知识" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="pC6kQa4-w5ho0fwOcDll-5" value="结论知识" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="339" y="180" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
