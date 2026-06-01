@@ -85,8 +85,8 @@
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-59" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.518;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=0" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="288" y="526.5" as="sourcePoint" />
-            <mxPoint x="288" y="553" as="targetPoint" />
+            <mxPoint x="186.5" y="517.5" as="sourcePoint" />
+            <mxPoint x="186.5" y="544" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.599;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=0" parent="1" source="QyejNqent71gZMtM4RsQ-2" target="QyejNqent71gZMtM4RsQ-6" edge="1">
@@ -122,7 +122,7 @@
           <mxGeometry x="610" y="346" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pC6kQa4-w5ho0fwOcDll-7" value="知识组织机制" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="50" y="464" width="97" height="40" as="geometry" />
+          <mxGeometry x="138.5" y="480" width="97" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
