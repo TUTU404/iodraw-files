@@ -65,10 +65,10 @@
         <mxCell id="QyejNqent71gZMtM4RsQ-14" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=宋体;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="79" y="490.5" width="120" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-17" value="知识关系建模" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="QyejNqent71gZMtM4RsQ-17" value="&lt;h3 data-end=&quot;941&quot; data-start=&quot;932&quot;&gt;元数据模型&lt;/h3&gt;&lt;br/&gt;&lt;p data-end=&quot;951&quot; data-start=&quot;943&quot;&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="87" y="555.5" width="104" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QyejNqent71gZMtM4RsQ-18" value="知识单元建模" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="QyejNqent71gZMtM4RsQ-18" value="&lt;h3 data-end=&quot;909&quot; data-start=&quot;900&quot;&gt;知识元模型&lt;/h3&gt;&lt;br/&gt;&lt;p data-end=&quot;925&quot; data-start=&quot;911&quot;&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="87" y="500.5" width="104" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-19" value="知识演化建模" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=1" parent="1" vertex="1">
