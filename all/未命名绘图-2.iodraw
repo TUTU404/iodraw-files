@@ -35,11 +35,10 @@
         <mxCell id="QyejNqent71gZMtM4RsQ-4" value="全过程知识表征体系" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="88" y="456" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gux50BXwL2qHFbdrqJdm-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QyejNqent71gZMtM4RsQ-6" target="QyejNqent71gZMtM4RsQ-23">
+        <mxCell id="gux50BXwL2qHFbdrqJdm-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QyejNqent71gZMtM4RsQ-6" target="QyejNqent71gZMtM4RsQ-23">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="404" y="554" />
-            </Array>
+            <mxPoint x="402" y="560" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-6" value="全过程知识组织体系" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" parent="1" vertex="1">
