@@ -27,6 +27,9 @@
         <mxCell id="QyejNqent71gZMtM4RsQ-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; 多智能体网络中的过程知识&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;spacingTop=-38;fontFamily=宋体;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="73" y="320" width="667" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="gux50BXwL2qHFbdrqJdm-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QyejNqent71gZMtM4RsQ-4" target="gux50BXwL2qHFbdrqJdm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-4" value="全过程知识表征体系" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="104" y="460" width="131" height="40" as="geometry" />
         </mxCell>
@@ -34,7 +37,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-6" value="全过程知识组织体系" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="320" y="425.5" width="164" height="40" as="geometry" />
+          <mxGeometry x="320" y="460" width="164" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.53;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" parent="1" source="QyejNqent71gZMtM4RsQ-7" target="QyejNqent71gZMtM4RsQ-66" edge="1">
           <mxGeometry relative="1" as="geometry">
