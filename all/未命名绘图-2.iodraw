@@ -99,7 +99,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-65" value="知识确证" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="561" y="608" width="160" height="35" as="geometry" />
+          <mxGeometry x="561" y="602" width="160" height="35" as="geometry" />
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-69" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=81.70212765957446;endSize=7.706382978723404;width=43.40425531914894;fillColor=#bac8d3;strokeColor=#23445d;fontStyle=1" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -123,7 +123,7 @@
           <mxGeometry x="191" y="613" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gux50BXwL2qHFbdrqJdm-11" value="知识演化" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="562" y="670" width="160" height="35" as="geometry" />
+          <mxGeometry x="564" y="637" width="160" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
