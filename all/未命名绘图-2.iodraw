@@ -56,7 +56,7 @@
           <mxGeometry x="160" y="346" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-9" value="数据知识" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="259" y="347" width="100" height="30" as="geometry" />
+          <mxGeometry x="271" y="346" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QyejNqent71gZMtM4RsQ-10" value="推理知识" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="448" y="347" width="100" height="30" as="geometry" />
